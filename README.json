@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:31:03Z",
+            "last_commit": "2026-08-15T22:28:12Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164094
+            "stars": 164132
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2022-04-07T02:10:14Z",
             "owner": "GaoPeng97",
             "repo": "transformer-xl-chinese",
-            "stars": 726
+            "stars": 725
           }
         },
         {
@@ -428,7 +428,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14846
+            "stars": 14844
           }
         },
         {
@@ -1527,10 +1527,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T06:33:24Z",
+            "last_commit": "2026-08-16T04:27:41Z",
             "owner": "NVIDIA",
             "repo": "Megatron-LM",
-            "stars": 17433
+            "stars": 17447
           }
         },
         {
@@ -1718,7 +1718,7 @@
             "last_commit": "2026-08-14T15:14:00Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19007
+            "stars": 19012
           }
         },
         {
@@ -1808,7 +1808,7 @@
             "last_commit": "2024-02-21T13:49:10Z",
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14918
+            "stars": 14919
           }
         },
         {
@@ -1830,7 +1830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:11:04.862Z",
+    "last_updated": "2026-08-16T08:11:56.586Z",
     "original_repository": "Jiakui/awesome-bert",
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
     "enhanced_repository": "enhansome/enhansome-bert",
