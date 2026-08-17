@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T22:28:12Z",
+            "last_commit": "2026-08-17T08:08:32Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164132
+            "stars": 164163
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32240
+            "stars": 32238
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2019-08-26T03:02:16Z",
             "owner": "pengming617",
             "repo": "bert_classification",
-            "stars": 372
+            "stars": 373
           }
         },
         {
@@ -976,7 +976,7 @@
             "last_commit": "2021-02-24T02:13:06Z",
             "owner": "macanv",
             "repo": "BERT-BiLSTM-CRF-NER",
-            "stars": 4906
+            "stars": 4907
           }
         },
         {
@@ -1254,7 +1254,7 @@
             "last_commit": "2024-07-30T09:41:28Z",
             "owner": "Tiiiger",
             "repo": "bert_score",
-            "stars": 1913
+            "stars": 1914
           }
         },
         {
@@ -1527,10 +1527,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T04:27:41Z",
+            "last_commit": "2026-08-17T07:48:42Z",
             "owner": "NVIDIA",
             "repo": "Megatron-LM",
-            "stars": 17447
+            "stars": 17453
           }
         },
         {
@@ -1715,10 +1715,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:14:00Z",
+            "last_commit": "2026-08-17T07:22:58Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19012
+            "stars": 19013
           }
         },
         {
@@ -1808,7 +1808,7 @@
             "last_commit": "2024-02-21T13:49:10Z",
             "owner": "graykode",
             "repo": "nlp-tutorial",
-            "stars": 14919
+            "stars": 14917
           }
         },
         {
@@ -1830,7 +1830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:11:56.586Z",
+    "last_updated": "2026-08-17T08:26:26.746Z",
     "original_repository": "Jiakui/awesome-bert",
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
     "enhanced_repository": "enhansome/enhansome-bert",
