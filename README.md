@@ -34,7 +34,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## implement of BERT besides tensorflow:
 
-1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,245 | 🐛 2,376 | 🌐 Python | 📅 2026-08-19,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
+1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,253 | 🐛 2,380 | 🌐 Python | 📅 2026-08-19,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
    ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
 2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,528 | 🐛 68 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
@@ -285,13 +285,13 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 5. [chiayewken/bert-qa](https://github.com/chiayewken/bert-qa) ⭐ 168 | 🐛 3 | 🌐 Python | 📅 2019-02-26, BERT for question answering starting with HotpotQA,
    ![](https://img.shields.io/github/stars/chiayewken/bert-qa.svg)
 
-6. [graykode/toeicbert](https://github.com/graykode/toeicbert) ⭐ 125 | 🐛 4 | 🌐 Python | 📅 2019-06-18, TOEIC(Test of English for International Communication) solving using pytorch-pretrained-BERT model.,
+6. [graykode/toeicbert](https://github.com/graykode/toeicbert) ⭐ 126 | 🐛 4 | 🌐 Python | 📅 2019-06-18, TOEIC(Test of English for International Communication) solving using pytorch-pretrained-BERT model.,
    ![](https://img.shields.io/github/starsgraykode/toeicbert.svg)
 
 7. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) ⭐ 115 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-18, BertQA - Attention on Steroids,
    ![](https://img.shields.io/github/stars/ankit-ai/BertQA-Attention-on-Steroids.svg)
 
-8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 164,245 | 🐛 2,376 | 🌐 Python | 📅 2026-08-19). I adapted the original BERT model to work on multiple choice machine comprehension.
+8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 164,253 | 🐛 2,380 | 🌐 Python | 📅 2026-08-19). I adapted the original BERT model to work on multiple choice machine comprehension.
    ![](https://img.shields.io/github/stars/NoviScl/BERT-RACE.svg)
 
 9. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2019-04-10,
@@ -503,7 +503,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT language model and embedding:
 
-1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,477 | 🐛 1,185 | 🌐 Python | 📅 2026-08-19, Ongoing research training transformer language models at scale, including: BERT,
+1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,479 | 🐛 1,185 | 🌐 Python | 📅 2026-08-19, Ongoing research training transformer language models at scale, including: BERT,
    ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg)
 
 2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,833 | 🐛 303 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,

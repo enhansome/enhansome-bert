@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:55:12Z",
+                "last_commit": "2026-08-19T12:17:07Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164245
+                "stars": 164253
               }
             },
             {
@@ -1109,7 +1109,7 @@
                 "last_commit": "2019-06-18T02:01:47Z",
                 "owner": "graykode",
                 "repo": "toeicbert",
-                "stars": 125
+                "stars": 126
               }
             },
             {
@@ -2129,10 +2129,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-19T08:13:54Z",
+                "last_commit": "2026-08-19T11:35:36Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17477
+                "stars": 17479
               }
             },
             {
@@ -2459,8 +2459,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:18:34.564Z",
+    "last_updated": "2026-08-19T12:17:20.765Z",
     "original_repository": "Jiakui/awesome-bert",
+    "original_repository_id": 158636620,
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
     "enhanced_repository": "enhansome/enhansome-bert",
     "enhanced_repository_description": null,
