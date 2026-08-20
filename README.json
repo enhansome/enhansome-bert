@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:17:07Z",
+                "last_commit": "2026-08-20T08:01:54Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164253
+                "stars": 164277
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2023-09-15T12:57:08Z",
                 "owner": "codertimo",
                 "repo": "BERT-pytorch",
-                "stars": 6528
+                "stars": 6529
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-05-09T11:12:55Z",
                 "owner": "dbiir",
                 "repo": "UER-py",
-                "stars": 3112
+                "stars": 3111
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32234
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2022-11-21T08:02:01Z",
                 "owner": "brightmart",
                 "repo": "albert_zh",
-                "stars": 3981
+                "stars": 3982
               }
             },
             {
@@ -578,7 +578,7 @@
                 "last_commit": "2024-10-27T07:33:25Z",
                 "owner": "cedrickchee",
                 "repo": "awesome-transformer-nlp",
-                "stars": 1146
+                "stars": 1147
               }
             },
             {
@@ -1819,7 +1819,7 @@
                 "last_commit": "2026-07-21T02:23:58Z",
                 "owner": "asyml",
                 "repo": "texar",
-                "stars": 2390
+                "stars": 2389
               }
             },
             {
@@ -1834,7 +1834,7 @@
                 "last_commit": "2024-07-30T09:41:28Z",
                 "owner": "Tiiiger",
                 "repo": "bert_score",
-                "stars": 1914
+                "stars": 1916
               }
             },
             {
@@ -2129,10 +2129,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:35:36Z",
+                "last_commit": "2026-08-20T07:56:12Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17479
+                "stars": 17492
               }
             },
             {
@@ -2147,7 +2147,7 @@
                 "last_commit": "2024-01-23T10:33:43Z",
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12833
+                "stars": 12834
               }
             },
             {
@@ -2331,10 +2331,10 @@
                 "archived": false,
                 "id": 198616978,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:37:55Z",
+                "last_commit": "2026-08-19T15:10:07Z",
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19018
+                "stars": 19022
               }
             },
             {
@@ -2431,7 +2431,7 @@
                 "last_commit": "2024-02-21T13:49:10Z",
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14919
+                "stars": 14920
               }
             },
             {
@@ -2446,7 +2446,7 @@
                 "last_commit": "2020-09-23T15:50:30Z",
                 "owner": "dragen1860",
                 "repo": "TensorFlow-2.x-Tutorials",
-                "stars": 6344
+                "stars": 6343
               }
             }
           ],
@@ -2459,7 +2459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:20.765Z",
+    "last_updated": "2026-08-20T08:19:57.278Z",
     "original_repository": "Jiakui/awesome-bert",
     "original_repository_id": 158636620,
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
