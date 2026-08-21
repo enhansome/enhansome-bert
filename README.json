@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-20T08:01:54Z",
+                "last_commit": "2026-08-21T08:15:30Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164277
+                "stars": 164293
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2023-10-06T04:01:21Z",
                 "owner": "dmlc",
                 "repo": "gluon-nlp",
-                "stars": 2541
+                "stars": 2540
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-09-03T21:05:29Z",
                 "owner": "BrikerMan",
                 "repo": "Kashgari",
-                "stars": 2382
+                "stars": 2381
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2026-04-19T00:57:10Z",
                 "owner": "ymcui",
                 "repo": "Chinese-BERT-wwm",
-                "stars": 10221
+                "stars": 10222
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32233
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2022-09-21T06:22:01Z",
                 "owner": "kimiyoung",
                 "repo": "transformer-xl",
-                "stars": 3714
+                "stars": 3713
               }
             },
             {
@@ -578,7 +578,7 @@
                 "last_commit": "2024-10-27T07:33:25Z",
                 "owner": "cedrickchee",
                 "repo": "awesome-transformer-nlp",
-                "stars": 1147
+                "stars": 1148
               }
             },
             {
@@ -952,7 +952,7 @@
                 "last_commit": "2024-08-12T14:01:29Z",
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14842
+                "stars": 14841
               }
             },
             {
@@ -1438,7 +1438,7 @@
                 "last_commit": "2023-06-12T21:30:16Z",
                 "owner": "songyouwei",
                 "repo": "ABSA-PyTorch",
-                "stars": 2113
+                "stars": 2114
               }
             },
             {
@@ -1535,7 +1535,7 @@
                 "last_commit": "2021-02-24T02:13:06Z",
                 "owner": "macanv",
                 "repo": "BERT-BiLSTM-CRF-NER",
-                "stars": 4908
+                "stars": 4907
               }
             },
             {
@@ -1550,7 +1550,7 @@
                 "last_commit": "2022-05-19T05:06:32Z",
                 "owner": "kaiyinzhou",
                 "repo": "BERT-NER",
-                "stars": 1278
+                "stars": 1277
               }
             },
             {
@@ -2129,10 +2129,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-20T07:56:12Z",
+                "last_commit": "2026-08-21T08:08:51Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17492
+                "stars": 17502
               }
             },
             {
@@ -2331,10 +2331,10 @@
                 "archived": false,
                 "id": 198616978,
                 "language": "Python",
-                "last_commit": "2026-08-19T15:10:07Z",
+                "last_commit": "2026-08-21T06:52:41Z",
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19022
+                "stars": 19023
               }
             },
             {
@@ -2431,7 +2431,7 @@
                 "last_commit": "2024-02-21T13:49:10Z",
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14920
+                "stars": 14922
               }
             },
             {
@@ -2446,7 +2446,7 @@
                 "last_commit": "2020-09-23T15:50:30Z",
                 "owner": "dragen1860",
                 "repo": "TensorFlow-2.x-Tutorials",
-                "stars": 6343
+                "stars": 6341
               }
             }
           ],
@@ -2459,7 +2459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:19:57.278Z",
+    "last_updated": "2026-08-21T08:21:29.540Z",
     "original_repository": "Jiakui/awesome-bert",
     "original_repository_id": 158636620,
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
