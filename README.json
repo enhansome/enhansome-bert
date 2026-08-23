@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-22T02:43:46Z",
+                "last_commit": "2026-08-23T02:38:11Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164326
+                "stars": 164358
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32234
               }
             },
             {
@@ -406,7 +406,7 @@
                 "last_commit": "2026-07-24T21:37:38Z",
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7736
+                "stars": 7737
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-07-24T21:37:38Z",
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7736
+                "stars": 7737
               }
             },
             {
@@ -952,7 +952,7 @@
                 "last_commit": "2024-08-12T14:01:29Z",
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14841
+                "stars": 14842
               }
             },
             {
@@ -2050,7 +2050,7 @@
                 "last_commit": "2022-12-08T06:59:03Z",
                 "owner": "yuanxiaosc",
                 "repo": "BERT-for-Sequence-Labeling-and-Text-Classification",
-                "stars": 469
+                "stars": 468
               }
             },
             {
@@ -2129,10 +2129,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-22T07:55:19Z",
+                "last_commit": "2026-08-23T08:01:43Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17510
+                "stars": 17522
               }
             },
             {
@@ -2147,7 +2147,7 @@
                 "last_commit": "2024-01-23T10:33:43Z",
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12835
+                "stars": 12836
               }
             },
             {
@@ -2334,7 +2334,7 @@
                 "last_commit": "2026-08-21T06:52:41Z",
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19025
+                "stars": 19030
               }
             },
             {
@@ -2431,7 +2431,7 @@
                 "last_commit": "2024-02-21T13:49:10Z",
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14923
+                "stars": 14925
               }
             },
             {
@@ -2459,7 +2459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:12:34.174Z",
+    "last_updated": "2026-08-23T08:13:10.094Z",
     "original_repository": "Jiakui/awesome-bert",
     "original_repository_id": 158636620,
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
