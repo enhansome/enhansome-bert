@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "google-research/bert",
+              "description": ", officical TensorFlow code and pre-trained models for BERT ,",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 154747577,
+                "language": "Python",
+                "last_commit": "2024-07-23T23:39:41Z",
+                "owner": "google-research",
+                "repo": "bert",
+                "stars": 40046
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "official implement:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "huggingface/pytorch-pretrained-BERT",
               "description": ", A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,",
               "children": [],
@@ -14,10 +36,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:29:09Z",
+                "last_commit": "2026-08-24T13:46:26Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164390
+                "stars": 164394
               }
             },
             {
@@ -1535,7 +1557,7 @@
                 "last_commit": "2021-02-24T02:13:06Z",
                 "owner": "macanv",
                 "repo": "BERT-BiLSTM-CRF-NER",
-                "stars": 4908
+                "stars": 4907
               }
             },
             {
@@ -2025,6 +2047,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "jessevig/bertviz",
+              "description": ", Tool for visualizing BERT's attention,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162021652,
+                "language": "Python",
+                "last_commit": "2026-01-08T22:38:46Z",
+                "owner": "jessevig",
+                "repo": "bertviz",
+                "stars": 8159
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "BERT visualization toolkit:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GaoQ1/rasa_chatbot_cn",
               "description": ", 基于rasa-nlu和rasa-core 搭建的对话系统demo,",
               "children": [],
@@ -2129,10 +2173,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:12:56Z",
+                "last_commit": "2026-08-24T12:53:28Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17554
+                "stars": 17561
               }
             },
             {
@@ -2431,7 +2475,7 @@
                 "last_commit": "2024-02-21T13:49:10Z",
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14926
+                "stars": 14925
               }
             },
             {
@@ -2446,7 +2490,7 @@
                 "last_commit": "2020-09-23T15:50:30Z",
                 "owner": "dragen1860",
                 "repo": "TensorFlow-2.x-Tutorials",
-                "stars": 6341
+                "stars": 6342
               }
             }
           ],
@@ -2459,7 +2503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:31:19.132Z",
+    "last_updated": "2026-08-24T14:06:00.983Z",
     "original_repository": "Jiakui/awesome-bert",
     "original_repository_id": 158636620,
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",

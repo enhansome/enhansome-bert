@@ -34,7 +34,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## implement of BERT besides tensorflow:
 
-1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,390 | 🐛 2,409 | 🌐 Python | 📅 2026-08-24,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
+1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,394 | 🐛 2,415 | 🌐 Python | 📅 2026-08-24,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
    ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
 2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,528 | 🐛 68 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
@@ -291,7 +291,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 7. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) ⭐ 115 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-18, BertQA - Attention on Steroids,
    ![](https://img.shields.io/github/stars/ankit-ai/BertQA-Attention-on-Steroids.svg)
 
-8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 164,390 | 🐛 2,409 | 🌐 Python | 📅 2026-08-24). I adapted the original BERT model to work on multiple choice machine comprehension.
+8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 164,394 | 🐛 2,415 | 🌐 Python | 📅 2026-08-24). I adapted the original BERT model to work on multiple choice machine comprehension.
    ![](https://img.shields.io/github/stars/NoviScl/BERT-RACE.svg)
 
 9. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2019-04-10,
@@ -375,7 +375,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT  NER  task:
 
-1. [macanv/BERT-BiLSMT-CRF-NER](https://github.com/macanv/BERT-BiLSMT-CRF-NER) ⭐ 4,908 | 🐛 145 | 🌐 Python | 📅 2021-02-24, Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning  ,
+1. [macanv/BERT-BiLSMT-CRF-NER](https://github.com/macanv/BERT-BiLSMT-CRF-NER) ⭐ 4,907 | 🐛 145 | 🌐 Python | 📅 2021-02-24, Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning  ,
    ![](https://img.shields.io/github/stars/macanv/BERT-BiLSMT-CRF-NER.svg)
 
 2. [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER) ⭐ 1,277 | 🐛 78 | 🌐 Python | 📅 2022-05-19, Use google BERT to do CoNLL-2003 NER ! ,
@@ -478,7 +478,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT  visualization toolkit:
 
-1. [jessevig/bertviz](https://github.com/jessevig/bertviz) ⭐ 8,158 | 🐛 22 | 🌐 Python | 📅 2026-01-08, Tool for visualizing BERT's attention,
+1. [jessevig/bertviz](https://github.com/jessevig/bertviz) ⭐ 8,159 | 🐛 22 | 🌐 Python | 📅 2026-01-08, Tool for visualizing BERT's attention,
    ![](https://img.shields.io/github/stars/jessevig/bertviz.svg)
 
 ## BERT chatbot :
@@ -503,7 +503,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT language model and embedding:
 
-1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,554 | 🐛 1,195 | 🌐 Python | 📅 2026-08-24, Ongoing research training transformer language models at scale, including: BERT,
+1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,561 | 🐛 1,206 | 🌐 Python | 📅 2026-08-24, Ongoing research training transformer language models at scale, including: BERT,
    ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg)
 
 2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,836 | 🐛 303 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
@@ -544,7 +544,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT Text Match:
 
-1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,030 | 🐛 1,318 | 🌐 Python | 📅 2026-08-21, Sentence Embeddings with BERT & XLNet,
+1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,030 | 🐛 1,319 | 🌐 Python | 📅 2026-08-21, Sentence Embeddings with BERT & XLNet,
    Sentence Transformers: Sentence Embeddings using BERT / RoBERTa / XLNet with PyTorch,
    ![](https://img.shields.io/github/stars/UKPLab/sentence-transformers.svg)
 
@@ -565,10 +565,10 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT tutorials:
 
-1. [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) ⭐ 14,926 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-02-21, Natural Language Processing Tutorial for Deep Learning Researchers <https://www.reddit.com/r/MachineLearn…>,
+1. [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) ⭐ 14,925 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-02-21, Natural Language Processing Tutorial for Deep Learning Researchers <https://www.reddit.com/r/MachineLearn…>,
    ![](https://img.shields.io/github/stars/graykode/nlp-tutorial.svg)
 
-2. [dragen1860/TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials) ⭐ 6,341 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2020-09-23, TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。,
+2. [dragen1860/TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials) ⭐ 6,342 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2020-09-23, TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。,
    ![](https://img.shields.io/github/stars/dragen1860/TensorFlow-2.x-Tutorials.svg)
 
 ***
