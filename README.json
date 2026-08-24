@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-23T02:38:11Z",
+                "last_commit": "2026-08-24T07:29:09Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164358
+                "stars": 164390
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-05-09T11:12:55Z",
                 "owner": "dbiir",
                 "repo": "UER-py",
-                "stars": 3111
+                "stars": 3112
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2023-05-28T15:42:23Z",
                 "owner": "zihangdai",
                 "repo": "xlnet",
-                "stars": 6189
+                "stars": 6188
               }
             },
             {
@@ -668,7 +668,7 @@
                 "last_commit": "2023-06-12T18:59:00Z",
                 "owner": "microsoft",
                 "repo": "AzureML-BERT",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -885,7 +885,7 @@
                 "last_commit": "2022-02-22T19:57:07Z",
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1710
+                "stars": 1711
               }
             },
             {
@@ -900,7 +900,7 @@
                 "last_commit": "2020-08-25T14:11:44Z",
                 "owner": "EmilyAlsentzer",
                 "repo": "clinicalBERT",
-                "stars": 773
+                "stars": 774
               }
             },
             {
@@ -915,7 +915,7 @@
                 "last_commit": "2022-10-17T11:19:35Z",
                 "owner": "kexinhuang12345",
                 "repo": "clinicalBERT",
-                "stars": 447
+                "stars": 448
               }
             },
             {
@@ -952,7 +952,7 @@
                 "last_commit": "2024-08-12T14:01:29Z",
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14842
+                "stars": 14843
               }
             },
             {
@@ -997,7 +997,7 @@
                 "last_commit": "2020-07-30T02:21:43Z",
                 "owner": "qiangsiwei",
                 "repo": "bert_distill",
-                "stars": 316
+                "stars": 317
               }
             },
             {
@@ -2129,10 +2129,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-23T08:01:43Z",
+                "last_commit": "2026-08-24T08:12:56Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17522
+                "stars": 17554
               }
             },
             {
@@ -2431,7 +2431,7 @@
                 "last_commit": "2024-02-21T13:49:10Z",
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14925
+                "stars": 14926
               }
             },
             {
@@ -2459,7 +2459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:13:10.094Z",
+    "last_updated": "2026-08-24T08:31:19.132Z",
     "original_repository": "Jiakui/awesome-bert",
     "original_repository_id": 158636620,
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
