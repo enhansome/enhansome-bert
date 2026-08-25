@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:59:39Z",
+                "last_commit": "2026-08-25T08:16:39Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164412
+                "stars": 164419
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2026-04-19T00:57:10Z",
                 "owner": "ymcui",
                 "repo": "Chinese-BERT-wwm",
-                "stars": 10222
+                "stars": 10221
               }
             },
             {
@@ -413,7 +413,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32234
               }
             },
             {
@@ -2173,10 +2173,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:53:34Z",
+                "last_commit": "2026-08-25T08:21:34Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17574
+                "stars": 17575
               }
             },
             {
@@ -2378,7 +2378,7 @@
                 "last_commit": "2026-08-21T06:52:41Z",
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19032
+                "stars": 19033
               }
             },
             {
@@ -2503,7 +2503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:17.256Z",
+    "last_updated": "2026-08-25T08:24:44.601Z",
     "original_repository": "Jiakui/awesome-bert",
     "original_repository_id": 158636620,
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
