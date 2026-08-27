@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:07:27Z",
+                "last_commit": "2026-08-27T11:25:39Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164455
+                "stars": 164498
               }
             },
             {
@@ -428,7 +428,7 @@
                 "last_commit": "2026-07-24T21:37:38Z",
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7738
+                "stars": 7737
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2026-07-24T21:37:38Z",
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7738
+                "stars": 7737
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2023-05-28T15:42:23Z",
                 "owner": "zihangdai",
                 "repo": "xlnet",
-                "stars": 6188
+                "stars": 6189
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2022-11-21T08:02:01Z",
                 "owner": "brightmart",
                 "repo": "albert_zh",
-                "stars": 3982
+                "stars": 3981
               }
             },
             {
@@ -907,7 +907,7 @@
                 "last_commit": "2022-02-22T19:57:07Z",
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1712
+                "stars": 1713
               }
             },
             {
@@ -1856,7 +1856,7 @@
                 "last_commit": "2024-07-30T09:41:28Z",
                 "owner": "Tiiiger",
                 "repo": "bert_score",
-                "stars": 1916
+                "stars": 1917
               }
             },
             {
@@ -2079,7 +2079,7 @@
                 "last_commit": "2026-08-04T07:07:13Z",
                 "owner": "GaoQ1",
                 "repo": "rasa_chatbot_cn",
-                "stars": 981
+                "stars": 982
               }
             },
             {
@@ -2173,10 +2173,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:20:45Z",
+                "last_commit": "2026-08-27T11:06:18Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17600
+                "stars": 17624
               }
             },
             {
@@ -2191,7 +2191,7 @@
                 "last_commit": "2024-01-23T10:33:43Z",
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12836
+                "stars": 12835
               }
             },
             {
@@ -2375,10 +2375,10 @@
                 "archived": false,
                 "id": 198616978,
                 "language": "Python",
-                "last_commit": "2026-08-21T06:52:41Z",
+                "last_commit": "2026-08-27T10:45:03Z",
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19034
+                "stars": 19039
               }
             },
             {
@@ -2408,7 +2408,7 @@
                 "last_commit": "2019-12-19T06:23:17Z",
                 "owner": "pengming617",
                 "repo": "bert_textMatching",
-                "stars": 196
+                "stars": 195
               }
             },
             {
@@ -2475,7 +2475,7 @@
                 "last_commit": "2024-02-21T13:49:10Z",
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14924
+                "stars": 14923
               }
             },
             {
@@ -2490,7 +2490,7 @@
                 "last_commit": "2020-09-23T15:50:30Z",
                 "owner": "dragen1860",
                 "repo": "TensorFlow-2.x-Tutorials",
-                "stars": 6341
+                "stars": 6340
               }
             }
           ],
@@ -2503,9 +2503,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:25:39.178Z",
-    "original_repository": "Jiakui/awesome-bert",
-    "original_repository_id": 158636620,
+    "last_updated": "2026-08-27T11:30:48.999Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 158636620,
+      "language": null,
+      "last_commit": "2021-03-21T03:06:33Z",
+      "owner": "Jiakui",
+      "repo": "awesome-bert",
+      "stars": 1839
+    },
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
     "enhanced_repository": "enhansome/enhansome-bert",
     "enhanced_repository_description": null,
