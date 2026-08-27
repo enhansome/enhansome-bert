@@ -34,7 +34,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## implement of BERT besides tensorflow:
 
-1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,498 | 🐛 2,408 | 🌐 Python | 📅 2026-08-27,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
+1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,511 | 🐛 2,405 | 🌐 Python | 📅 2026-08-27,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
    ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
 2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,527 | 🐛 68 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
@@ -103,7 +103,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## Pretrained BERT weights:
 
-1. [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) ⭐ 10,223 | 🐛 1 | 🌐 Python | 📅 2026-04-19, Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm预训练模型） <https://arxiv.org/abs/1906.08101>,
+1. [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) ⭐ 10,224 | 🐛 1 | 🌐 Python | 📅 2026-04-19, Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm预训练模型） <https://arxiv.org/abs/1906.08101>,
    ![](https://img.shields.io/github/stars/ymcui/Chinese-BERT-wwm.svg)
 
 2. [brightmart/roberta\_zh](https://github.com/brightmart/roberta_zh) ⭐ 2,791 | 🐛 48 | 🌐 Python | 📅 2024-07-22, RoBERTa for Chinese, 中文预训练RoBERTa模型,
@@ -291,7 +291,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 7. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) ⭐ 115 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-18, BertQA - Attention on Steroids,
    ![](https://img.shields.io/github/stars/ankit-ai/BertQA-Attention-on-Steroids.svg)
 
-8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 164,498 | 🐛 2,408 | 🌐 Python | 📅 2026-08-27). I adapted the original BERT model to work on multiple choice machine comprehension.
+8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 164,511 | 🐛 2,405 | 🌐 Python | 📅 2026-08-27). I adapted the original BERT model to work on multiple choice machine comprehension.
    ![](https://img.shields.io/github/stars/NoviScl/BERT-RACE.svg)
 
 9. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2019-04-10,
@@ -436,7 +436,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 1. [asyml/texar](https://github.com/asyml/texar) ⭐ 2,389 | 🐛 40 | 🌐 Python | 📅 2026-07-21, Toolkit for Text Generation and Beyond <https://texar.io>, Texar is a general-purpose text generation toolkit, has also implemented BERT here for classification, and text generation applications by combining with Texar's other modules.
    ![](https://img.shields.io/github/stars/asyml/texar.svg)
 
-2. [Tiiiger/bert\_score](https://github.com/Tiiiger/bert_score) ⭐ 1,917 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2024-07-30, BERT score for language generation,
+2. [Tiiiger/bert\_score](https://github.com/Tiiiger/bert_score) ⭐ 1,918 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2024-07-30, BERT score for language generation,
    ![](https://img.shields.io/github/stars/Tiiiger/bert_score.svg)
 
 3. [voidful/BertGenerate](https://github.com/voidful/BertGenerate) ⭐ 37 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-11-09, Fine tuning bert for text generation, Bert 做 文本生成 的一些實驗
@@ -503,7 +503,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT language model and embedding:
 
-1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,624 | 🐛 1,253 | 🌐 Python | 📅 2026-08-27, Ongoing research training transformer language models at scale, including: BERT,
+1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,627 | 🐛 1,249 | 🌐 Python | 📅 2026-08-27, Ongoing research training transformer language models at scale, including: BERT,
    ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg)
 
 2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,835 | 🐛 303 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
