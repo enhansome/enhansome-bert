@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "TensorFlow code and pre-trained models for BERT",
+                "homepage": "https://arxiv.org/abs/1810.04805",
                 "id": 154747577,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-23T23:39:41Z",
+                "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40045
+                "stars": 40046,
+                "topics": [
+                  "google",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "nlp",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -35,12 +46,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+                "homepage": "https://huggingface.co/transformers",
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-28T18:22:13Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:30:04Z",
+                "open_issues": 2396,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164570
+                "stars": 164588,
+                "topics": [
+                  "audio",
+                  "deep-learning",
+                  "deepseek",
+                  "gemma",
+                  "glm",
+                  "hacktoberfest",
+                  "llm",
+                  "machine-learning",
+                  "model-hub",
+                  "natural-language-processing",
+                  "nlp",
+                  "pretrained-models",
+                  "python",
+                  "pytorch",
+                  "pytorch-transformers",
+                  "qwen",
+                  "speech-recognition",
+                  "transformer",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -51,12 +87,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google AI 2018 BERT pytorch implementation",
+                "homepage": null,
                 "id": 153113207,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-15T12:57:08Z",
+                "open_issues": 68,
                 "owner": "codertimo",
                 "repo": "BERT-pytorch",
-                "stars": 6527
+                "stars": 6527,
+                "topics": [
+                  "bert",
+                  "language-model",
+                  "nlp",
+                  "pytorch",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -67,12 +114,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo",
+                "homepage": "https://github.com/dbiir/UER-py/wiki",
                 "id": 180572200,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-09T11:12:55Z",
+                "open_issues": 136,
                 "owner": "dbiir",
                 "repo": "UER-py",
-                "stars": 3112
+                "stars": 3112,
+                "topics": [
+                  "albert",
+                  "bart",
+                  "bert",
+                  "chinese",
+                  "classification",
+                  "clue",
+                  "elmo",
+                  "fine-tuning",
+                  "gpt",
+                  "gpt-2",
+                  "model-zoo",
+                  "natural-language-processing",
+                  "ner",
+                  "pegasus",
+                  "pre-training",
+                  "pytorch",
+                  "roberta",
+                  "t5",
+                  "unilm",
+                  "xlm-roberta"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -83,12 +156,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "NLP made easy",
+                "homepage": "https://nlp.gluon.ai/",
                 "id": 128121076,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-06T04:01:21Z",
+                "open_issues": 271,
                 "owner": "dmlc",
                 "repo": "gluon-nlp",
-                "stars": 2540
+                "stars": 2540,
+                "topics": [
+                  "deep-learning",
+                  "gluon",
+                  "gluonnlp",
+                  "machine-learning",
+                  "mxnet",
+                  "natural-language-generation",
+                  "natural-language-inference",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "nlg",
+                  "nlp",
+                  "nlu",
+                  "numpy"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -99,12 +191,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.",
+                "homepage": "http://kashgari.readthedocs.io/",
                 "id": 166495086,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-03T21:05:29Z",
+                "open_issues": 28,
                 "owner": "BrikerMan",
                 "repo": "Kashgari",
-                "stars": 2381
+                "stars": 2381,
+                "topics": [
+                  "bert",
+                  "bert-model",
+                  "gpt-2",
+                  "machine-learning",
+                  "named-entity-recognition",
+                  "ner",
+                  "nlp",
+                  "nlp-framework",
+                  "seq2seq",
+                  "sequence-labeling",
+                  "text-classification",
+                  "text-labeling",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -115,12 +226,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super easy library for BERT based NLP models",
+                "homepage": null,
                 "id": 182163054,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-19T09:41:38Z",
+                "open_issues": 162,
                 "owner": "appvision-ai",
                 "repo": "fast-bert",
-                "stars": 1917
+                "stars": 1917,
+                "topics": [
+                  "bert",
+                  "fast-bert",
+                  "fastai",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -131,12 +252,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Implementation of BERT that could load official pre-trained models for feature extraction and prediction",
+                "homepage": null,
                 "id": 153859755,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-22T10:33:11Z",
+                "open_issues": 2,
                 "owner": "CyberZHG",
                 "repo": "keras-bert",
-                "stars": 2419
+                "stars": 2419,
+                "topics": [
+                  "bert",
+                  "keras",
+                  "language-model"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -147,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ERNIE Pytorch Version",
+                "homepage": null,
                 "id": 186358163,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-26T22:31:18Z",
+                "open_issues": 7,
                 "owner": "nghuyong",
                 "repo": "ERNIE-Pytorch",
-                "stars": 929
+                "stars": 929,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -163,12 +298,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Keras implementation of BERT with pre-trained weights",
+                "homepage": null,
                 "id": 154273863,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-07-26T09:36:13Z",
+                "open_issues": 7,
                 "owner": "Separius",
                 "repo": "BERT-keras",
-                "stars": 813
+                "stars": 813,
+                "topics": [
+                  "keras",
+                  "language-modeling",
+                  "nlp",
+                  "pretrained-models",
+                  "tensorflow",
+                  "theano",
+                  "transfer-learning",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -179,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch Implementation of Google BERT",
+                "homepage": null,
                 "id": 161426593,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-29T13:48:14Z",
+                "open_issues": 10,
                 "owner": "dhlee347",
                 "repo": "pytorchic-bert",
-                "stars": 600
+                "stars": 600,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -195,12 +349,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras library for building (Universal) Transformers, facilitating BERT and GPT models",
+                "homepage": null,
                 "id": 150479174,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-30T16:54:21Z",
+                "open_issues": 19,
                 "owner": "kpot",
                 "repo": "keras-transformer",
-                "stars": 541
+                "stars": 541,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -211,12 +370,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chainer implementation of \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\"",
+                "homepage": null,
                 "id": 152918355,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-09T01:54:50Z",
+                "open_issues": 0,
                 "owner": "soskek",
                 "repo": "bert-chainer",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "bert",
+                  "chainer",
+                  "google",
+                  "natural-language-processi",
+                  "natural-language-understanding",
+                  "nlp",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -227,12 +399,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chainer implementation of \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\"",
+                "homepage": null,
                 "id": 152918355,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-11-09T01:54:50Z",
+                "open_issues": 0,
                 "owner": "soskek",
                 "repo": "bert-chainer",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "bert",
+                  "chainer",
+                  "google",
+                  "natural-language-processi",
+                  "natural-language-understanding",
+                  "nlp",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -243,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of BERT in \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\"",
+                "homepage": "https://arxiv.org/abs/1810.04805",
                 "id": 153815494,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2018-11-01T12:36:00Z",
+                "open_issues": 4,
                 "owner": "dreamgonfly",
                 "repo": "BERT-pytorch",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -259,12 +449,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keras version of Google's BERT model",
+                "homepage": null,
                 "id": 161617353,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-04T08:26:58Z",
+                "open_issues": 0,
                 "owner": "miroozyx",
                 "repo": "BERT_with_keras",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "bert",
+                  "deep-learning",
+                  "nlp",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -275,12 +475,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch port of BERT ML model",
+                "homepage": null,
                 "id": 156621649,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-02-19T00:33:04Z",
+                "open_issues": 0,
                 "owner": "innodatalabs",
                 "repo": "tbert",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "bert-model",
+                  "natural-language-processing",
+                  "neural-network",
+                  "nlp",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -291,12 +502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch & fastNLP implementation of Google AI's BERT model.",
+                "homepage": null,
                 "id": 165056732,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-15T11:48:25Z",
+                "open_issues": 1,
                 "owner": "Rshcaroline",
                 "repo": "BERT_Pytorch_fastNLP",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -307,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bert-tf1.4.0",
+                "homepage": null,
                 "id": 159684331,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-02T07:22:45Z",
+                "open_issues": 0,
                 "owner": "MaZhiyuanBUAA",
                 "repo": "bert-tf1.4.0",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -323,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A conda-smithy repository for pytorch-pretrained-bert.",
+                "homepage": null,
                 "id": 162633302,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-22T19:51:29Z",
+                "open_issues": 1,
                 "owner": "conda-forge",
                 "repo": "pytorch-pretrained-bert-feedstock",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -346,12 +572,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+                "homepage": "https://ieeexplore.ieee.org/document/9599397",
                 "id": 192814419,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-19T00:57:10Z",
+                "open_issues": 1,
                 "owner": "ymcui",
                 "repo": "Chinese-BERT-wwm",
-                "stars": 10224
+                "stars": 10225,
+                "topics": [
+                  "bert",
+                  "bert-wwm",
+                  "bert-wwm-ext",
+                  "chinese-bert",
+                  "nlp",
+                  "pytorch",
+                  "rbt",
+                  "roberta",
+                  "roberta-wwm",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -362,12 +604,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RoBERTa中文预训练模型: RoBERTa for Chinese ",
+                "homepage": null,
                 "id": 205902991,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-22T15:02:06Z",
+                "open_issues": 48,
                 "owner": "brightmart",
                 "repo": "roberta_zh",
-                "stars": 2790
+                "stars": 2790,
+                "topics": [
+                  "bert",
+                  "chinese",
+                  "gpt2",
+                  "pre-trained",
+                  "pre-trained-language-models",
+                  "roberta"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -378,12 +632,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-Trained Chinese XLNet（中文XLNet预训练模型）",
+                "homepage": "http://xlnet.hfl-rc.com",
                 "id": 196937919,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-19T01:00:14Z",
+                "open_issues": 0,
                 "owner": "ymcui",
                 "repo": "Chinese-XLNet",
-                "stars": 1646
+                "stars": 1646,
+                "topics": [
+                  "natural-language-processing",
+                  "nlp",
+                  "pytorch",
+                  "tensorflow",
+                  "xlnet"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -394,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Chinese Language Pre-trained Model Zoo",
+                "homepage": null,
                 "id": 194585684,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-03-18T12:26:29Z",
+                "open_issues": 4,
                 "owner": "thunlp",
                 "repo": "OpenCLaP",
-                "stars": 981
+                "stars": 981,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -410,12 +680,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中文预训练XLNet模型: Pre-Trained Chinese XLNet_Large",
+                "homepage": null,
                 "id": 207520488,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-09-13T18:30:43Z",
+                "open_issues": 8,
                 "owner": "brightmart",
                 "repo": "xlnet_zh",
-                "stars": 228
+                "stars": 228,
+                "topics": [
+                  "bert",
+                  "language-model",
+                  "pre-train",
+                  "roberta",
+                  "xlnet"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -433,12 +714,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -449,12 +739,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.",
+                "homepage": "https://ernie.baidu.com",
                 "id": 173544440,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T21:37:38Z",
+                "open_issues": 82,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7737
+                "stars": 7737,
+                "topics": [
+                  "ernie",
+                  "ernie-45",
+                  "ernie-45-vl",
+                  "erniekit",
+                  "llm",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -465,12 +767,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.",
+                "homepage": "https://ernie.baidu.com",
                 "id": 173544440,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T21:37:38Z",
+                "open_issues": 82,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7737
+                "stars": 7737,
+                "topics": [
+                  "ernie",
+                  "ernie-45",
+                  "ernie-45-vl",
+                  "erniekit",
+                  "llm",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -481,12 +795,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+                "homepage": null,
                 "id": 192689297,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-28T15:42:23Z",
+                "open_issues": 191,
                 "owner": "zihangdai",
                 "repo": "xlnet",
-                "stars": 6189
+                "stars": 6189,
+                "topics": [
+                  "deep-learning",
+                  "nlp",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -497,12 +820,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型",
+                "homepage": "https://arxiv.org/pdf/1909.11942.pdf",
                 "id": 211137351,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-21T08:02:01Z",
+                "open_issues": 101,
                 "owner": "brightmart",
                 "repo": "albert_zh",
-                "stars": 3981
+                "stars": 3981,
+                "topics": [
+                  "albert",
+                  "bert",
+                  "chinese-corpus",
+                  "pre-trained",
+                  "pre-trained-model",
+                  "pytorch",
+                  "roberta",
+                  "tensorflow",
+                  "xlnet"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -513,12 +851,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 164642888,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-21T06:22:01Z",
+                "open_issues": 98,
                 "owner": "kimiyoung",
                 "repo": "transformer-xl",
-                "stars": 3714
+                "stars": 3714,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -529,12 +872,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for using and evaluating SpanBERT.",
+                "homepage": null,
                 "id": 205434302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-25T16:49:50Z",
+                "open_issues": 38,
                 "owner": "facebookresearch",
                 "repo": "SpanBERT",
-                "stars": 907
+                "stars": 907,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -545,12 +893,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keras TensorFlow 2.0 implementation of BERT, ALBERT and adapter-BERT.",
+                "homepage": "https://github.com/kpe/bert-for-tf2",
                 "id": 187989988,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-13T10:12:34Z",
+                "open_issues": 33,
                 "owner": "kpe",
                 "repo": "bert-for-tf2",
-                "stars": 808
+                "stars": 808,
+                "topics": [
+                  "bert",
+                  "keras",
+                  "tensorflow",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -561,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "transformer xl在中文文本生成上的尝试（可写小说、古诗）（transformer xl for text generation of chinese）",
+                "homepage": null,
                 "id": 182762802,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-07T02:10:14Z",
+                "open_issues": 15,
                 "owner": "GaoPeng97",
                 "repo": "transformer-xl-chinese",
-                "stars": 725
+                "stars": 725,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -577,12 +940,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Lite Bert For Self-Supervised Learning Language Representations",
+                "homepage": null,
                 "id": 211853338,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-05-13T01:36:34Z",
+                "open_issues": 31,
                 "owner": "lonePatient",
                 "repo": "albert_pytorch",
-                "stars": 714
+                "stars": 714,
+                "topics": [
+                  "albert",
+                  "bert",
+                  "language-model",
+                  "mask",
+                  "ngram",
+                  "nlp",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -600,12 +976,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN",
+                "homepage": null,
                 "id": 154396042,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-01T16:54:54Z",
+                "open_issues": 10,
                 "owner": "brightmart",
                 "repo": "bert_language_understanding",
-                "stars": 965
+                "stars": 965,
+                "topics": [
+                  "attention-is-all-you-need",
+                  "bert-model",
+                  "document-classification",
+                  "fasttext",
+                  "language-model",
+                  "language-understanding",
+                  "nlp",
+                  "pre-training",
+                  "question-answering",
+                  "self-attention",
+                  "text-classification",
+                  "textcnn",
+                  "transfer-learning",
+                  "transformer-encoder"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -616,12 +1012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "谷歌自然语言处理模型BERT：论文解析与python代码",
+                "homepage": null,
                 "id": 154923689,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-10-27T06:00:47Z",
+                "open_issues": 4,
                 "owner": "Y1ran",
                 "repo": "NLP-BERT--ChineseVersion",
-                "stars": 839
+                "stars": 839,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -632,12 +1033,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.",
+                "homepage": null,
                 "id": 165509352,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-10-27T07:33:25Z",
+                "open_issues": 3,
                 "owner": "cedrickchee",
                 "repo": "awesome-transformer-nlp",
-                "stars": 1149
+                "stars": 1150,
+                "topics": [
+                  "attention-mechanism",
+                  "awesome",
+                  "awesome-list",
+                  "bert",
+                  "chatgpt",
+                  "gpt-2",
+                  "gpt-3",
+                  "gpt-4",
+                  "language-model",
+                  "llama",
+                  "natural-language-processing",
+                  "neural-networks",
+                  "nlp",
+                  "pre-trained-language-models",
+                  "transfer-learning",
+                  "transformer",
+                  "xlnet"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -648,12 +1072,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 论文的中文翻译 Chinese Translation!",
+                "homepage": "https://yuanxiaosc.github.io/2018/12/25/Bidirectional_Encoder_Representations_Transformers翻译/",
                 "id": 163077904,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-06-01T01:38:23Z",
+                "open_issues": 0,
                 "owner": "yuanxiaosc",
                 "repo": "BERT_Paper_Chinese_Translation",
-                "stars": 683
+                "stars": 683,
+                "topics": [
+                  "bert",
+                  "chinese-translation",
+                  "paper",
+                  "paper-translate",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -664,12 +1099,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT for Multitask Learning",
+                "homepage": "https://jayyip.github.io/m3tl/",
                 "id": 159620189,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-12T06:03:03Z",
+                "open_issues": 28,
                 "owner": "JayYip",
                 "repo": "m3tl",
-                "stars": 544
+                "stars": 544,
+                "topics": [
+                  "bert",
+                  "cws",
+                  "encoder-decoder",
+                  "multi-task-learning",
+                  "multitask-learning",
+                  "named-entity-recognition",
+                  "ner",
+                  "nlp",
+                  "part-of-speech",
+                  "pretrained-models",
+                  "text-classification",
+                  "transformer",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -680,12 +1134,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT for Multitask Learning",
+                "homepage": "https://jayyip.github.io/m3tl/",
                 "id": 159620189,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-12T06:03:03Z",
+                "open_issues": 28,
                 "owner": "JayYip",
                 "repo": "m3tl",
-                "stars": 544
+                "stars": 544,
+                "topics": [
+                  "bert",
+                  "cws",
+                  "encoder-decoder",
+                  "multi-task-learning",
+                  "multitask-learning",
+                  "named-entity-recognition",
+                  "ner",
+                  "nlp",
+                  "part-of-speech",
+                  "pretrained-models",
+                  "text-classification",
+                  "transformer",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -696,12 +1169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras library for building (Universal) Transformers, facilitating BERT and GPT models",
+                "homepage": null,
                 "id": 150479174,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-30T16:54:21Z",
+                "open_issues": 19,
                 "owner": "kpot",
                 "repo": "keras-transformer",
-                "stars": 541
+                "stars": 541,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -712,12 +1190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT with SentencePiece for Japanese text.",
+                "homepage": null,
                 "id": 162851672,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-15T01:20:29Z",
+                "open_issues": 1,
                 "owner": "yoheikikuta",
                 "repo": "bert-japanese",
-                "stars": 497
+                "stars": 497,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -728,12 +1211,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "End-to-End recipes for pre-training and fine-tuning BERT using Azure Machine Learning Service",
+                "homepage": "https://azure.microsoft.com/en-us/blog/microsoft-makes-it-easier-to-build-popular-language-representation-model-bert-at-large-scale/",
                 "id": 160595817,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-06-12T18:59:00Z",
+                "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "AzureML-BERT",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "azure-machine-learning",
+                  "azureml-bert",
+                  "bert",
+                  "bert-model",
+                  "finetuning",
+                  "language-model",
+                  "nlp",
+                  "pretrained-models",
+                  "pretraining",
+                  "pytorch",
+                  "tuning"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -744,12 +1244,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "export bert model for serving",
+                "homepage": null,
                 "id": 161440494,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-12T06:38:30Z",
+                "open_issues": 0,
                 "owner": "practicingman",
                 "repo": "bert_serving",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "bert-serving",
+                  "google-bert",
+                  "tensorflow-serving",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -760,12 +1270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "add BERT to encoder part for https://github.com/memray/seq2seq-keyphrase-pytorch",
+                "homepage": null,
                 "id": 159603246,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-04T02:21:10Z",
+                "open_issues": 1,
                 "owner": "whqwill",
                 "repo": "seq2seq-keyphrase-bert",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -776,12 +1291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comparing Text Classification results using BERT embedding and ULMFIT embedding",
+                "homepage": null,
                 "id": 170186563,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-02-13T23:34:54Z",
+                "open_issues": 2,
                 "owner": "yaserkl",
                 "repo": "BERTvsULMFIT",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -792,12 +1312,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "turn bert pretrain checkpoint into saved model for a feature extracting demo in java",
+                "homepage": null,
                 "id": 158995536,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-11-25T04:12:45Z",
+                "open_issues": 5,
                 "owner": "gameofdimension",
                 "repo": "java-bert-predict",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "bert",
+                  "feature-extraction",
+                  "google-bert",
+                  "java",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -808,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An attempt to make Google BERT closer to production before Hugging Face Transformers etc.",
+                "homepage": "https://medium.com/@cdathuraliya/online-prediction-and-model-pipelining-for-google-bert-8ace3c85b4f6",
                 "id": 174854915,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2020-09-10T07:30:30Z",
+                "open_issues": 1,
                 "owner": "cdathuraliya",
                 "repo": "bert-inference",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -824,12 +1360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bert with customized features",
+                "homepage": null,
                 "id": 159687844,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-03T14:59:42Z",
+                "open_issues": 0,
                 "owner": "brightmart",
                 "repo": "bert_customized",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -840,12 +1381,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "解读tensorflow版本Bert中modeling.py数据流",
+                "homepage": null,
                 "id": 166172185,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-02-20T12:00:01Z",
+                "open_issues": 1,
                 "owner": "1234560o",
                 "repo": "Bert-model-code-interpretation",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "bert",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -856,12 +1406,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "解读tensorflow版本Bert中modeling.py数据流",
+                "homepage": null,
                 "id": 166172185,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-02-20T12:00:01Z",
+                "open_issues": 1,
                 "owner": "1234560o",
                 "repo": "Bert-model-code-interpretation",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "bert",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -872,12 +1431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of BERT that could load official pre-trained models for feature extraction and prediction on TPU",
+                "homepage": null,
                 "id": 160133665,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-02-24T01:13:48Z",
+                "open_issues": 1,
                 "owner": "HighCWu",
                 "repo": "keras-bert-tpu",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -888,12 +1452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中文注释一下bert代码功能",
+                "homepage": null,
                 "id": 162784457,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-06T04:16:43Z",
+                "open_issues": 0,
                 "owner": "cnfive",
                 "repo": "cnbert",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -904,12 +1473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "some examples of bert",
+                "homepage": null,
                 "id": 158069676,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-11-29T08:27:18Z",
+                "open_issues": 0,
                 "owner": "Pydataman",
                 "repo": "bert_examples",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -920,12 +1494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 157138841,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-13T03:21:08Z",
+                "open_issues": 0,
                 "owner": "middle-plat-ai",
                 "repo": "bert-examples",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -936,12 +1515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 158539432,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-18T03:20:11Z",
+                "open_issues": 1,
                 "owner": "Willyoung2017",
                 "repo": "Bert_Attempt",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -959,12 +1543,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A BERT model for scientific text.",
+                "homepage": "https://arxiv.org/abs/1903.10676",
                 "id": 168397780,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-22T19:57:07Z",
+                "open_issues": 60,
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1715
+                "stars": 1715,
+                "topics": [
+                  "bert",
+                  "nlp",
+                  "scientific-papers"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -975,12 +1568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "repository for Publicly Available Clinical BERT Embeddings ",
+                "homepage": null,
                 "id": 179753075,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-25T14:11:44Z",
+                "open_issues": 10,
                 "owner": "EmilyAlsentzer",
                 "repo": "clinicalBERT",
-                "stars": 774
+                "stars": 774,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -991,12 +1589,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission (CHIL 2020 Workshop)",
+                "homepage": "https://arxiv.org/abs/1904.05342",
                 "id": 178530206,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-10-17T11:19:35Z",
+                "open_issues": 7,
                 "owner": "kexinhuang12345",
                 "repo": "clinicalBERT",
-                "stars": 449
+                "stars": 449,
+                "topics": [
+                  "clinicalbert",
+                  "hospital-readmission",
+                  "prediction"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1007,12 +1614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BioBert Pytorch",
+                "homepage": null,
                 "id": 162087466,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-12-09T21:50:13Z",
+                "open_issues": 39,
                 "owner": "MeRajat",
                 "repo": "SolvingAlmostAnythingWithBert",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -1030,12 +1642,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+                "homepage": null,
                 "id": 131881622,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-08-12T14:01:29Z",
+                "open_issues": 321,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14843
+                "stars": 14843,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "drug-discovery",
+                  "forecasting",
+                  "large-language-models",
+                  "mxnet",
+                  "nlp",
+                  "paddlepaddle",
+                  "pytorch",
+                  "recommender-systems",
+                  "speech-recognition",
+                  "speech-synthesis",
+                  "tensorflow",
+                  "tensorflow2",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1046,12 +1679,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL",
+                "homepage": null,
                 "id": 175349798,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-11-18T07:36:58Z",
+                "open_issues": 8,
                 "owner": "zhihu",
                 "repo": "cuBERT",
-                "stars": 545
+                "stars": 545,
+                "topics": [
+                  "bert",
+                  "cuda",
+                  "deep-learning",
+                  "inference",
+                  "mkl",
+                  "predict",
+                  "tensorflow",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1062,12 +1709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT模型从训练到部署",
+                "homepage": null,
                 "id": 181452328,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2020-09-23T01:37:53Z",
+                "open_issues": 20,
                 "owner": "xmxoxo",
                 "repo": "BERT-train2deploy",
-                "stars": 529
+                "stars": 529,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1078,12 +1730,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT distillation（基于BERT的蒸馏实验 ）",
+                "homepage": null,
                 "id": 202273145,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-30T02:21:43Z",
+                "open_issues": 7,
                 "owner": "qiangsiwei",
                 "repo": "bert_distill",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "bert",
+                  "classification",
+                  "distillation",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1094,12 +1756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Knowledge Distillation from BERT",
+                "homepage": null,
                 "id": 171736542,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-07T20:05:11Z",
+                "open_issues": 0,
                 "owner": "kevinmtian",
                 "repo": "distill-bert",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -1117,12 +1784,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "机器阅读理解 冠军/亚军代码及中文预训练MRC模型",
+                "homepage": null,
                 "id": 189688627,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-19T20:32:49Z",
+                "open_issues": 39,
                 "owner": "luhua-rain",
                 "repo": "MRC_Competition_Dureader",
-                "stars": 743
+                "stars": 743,
+                "topics": [
+                  "bert",
+                  "dureader",
+                  "mrc",
+                  "pytorch",
+                  "qa",
+                  "squad"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1133,12 +1812,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.",
+                "homepage": null,
                 "id": 178673705,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-17T02:45:58Z",
+                "open_issues": 15,
                 "owner": "sogou",
                 "repo": "SogouMRCToolkit",
-                "stars": 740
+                "stars": 740,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1149,12 +1833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 165401895,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-01-26T13:32:15Z",
+                "open_issues": 5,
                 "owner": "nyu-dl",
                 "repo": "dl4marco-bert",
-                "stars": 484
+                "stars": 484,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1165,12 +1854,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R-net in PyTorch, with ELMo",
+                "homepage": null,
                 "id": 98606625,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-12T17:18:09Z",
+                "open_issues": 3,
                 "owner": "matthew-z",
                 "repo": "R-net",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "allennlp",
+                  "pytorch",
+                  "r-net",
+                  "squad"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1181,12 +1880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT for question answering starting with HotpotQA",
+                "homepage": null,
                 "id": 162857643,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-02-26T11:08:15Z",
+                "open_issues": 3,
                 "owner": "chiayewken",
                 "repo": "bert-qa",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1197,12 +1901,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TOEIC(Test of English for International Communication) solving using pytorch-pretrained-BERT model.",
+                "homepage": null,
                 "id": 183870801,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-06-18T02:01:47Z",
+                "open_issues": 4,
                 "owner": "graykode",
                 "repo": "toeicbert",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "ai",
+                  "bert",
+                  "deep-learning",
+                  "lm",
+                  "mask",
+                  "nlp",
+                  "pytorch",
+                  "pytorch-pretrained",
+                  "toeic"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1213,12 +1932,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BertQA - Attention on Steroids",
+                "homepage": null,
                 "id": 170037728,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-18T17:58:24Z",
+                "open_issues": 2,
                 "owner": "ankit-ai",
                 "repo": "BertQA-Attention-on-Steroids",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "attention",
+                  "bert",
+                  "code",
+                  "dataset",
+                  "neural-network",
+                  "nlp-machine-learning",
+                  "python",
+                  "qa",
+                  "questionanswering",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1229,12 +1964,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 167188162,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-22T20:19:09Z",
+                "open_issues": 1,
                 "owner": "NoviScl",
                 "repo": "BERT-RACE",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1245,12 +1985,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 160308478,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-04-10T11:08:56Z",
+                "open_issues": 3,
                 "owner": "eva-n27",
                 "repo": "BERT-for-Chinese-Question-Answering",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "bert",
+                  "pytorch",
+                  "question-answering"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1261,12 +2010,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 160308478,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-04-10T11:08:56Z",
+                "open_issues": 3,
                 "owner": "eva-n27",
                 "repo": "BERT-for-Chinese-Question-Answering",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "bert",
+                  "pytorch",
+                  "question-answering"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1277,12 +2035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Final Project for EECS496-7",
+                "homepage": null,
                 "id": 173640214,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-10T22:10:13Z",
+                "open_issues": 4,
                 "owner": "edmondchensj",
                 "repo": "ChineseQA-with-BERT",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1293,12 +2056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 175078410,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-30T21:05:17Z",
+                "open_issues": 3,
                 "owner": "allenai",
                 "repo": "allennlp-bert-qa-wrapper",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1309,12 +2077,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guide KorQuAD upload to leaderboard (EM 68.947 / F1 88.468) model which only use BERT-multilingual(single)",
+                "homepage": "https://korquad.github.io/",
                 "id": 183613292,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-05-01T06:02:06Z",
+                "open_issues": 0,
                 "owner": "graykode",
                 "repo": "KorQuAD-beginner",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "bert",
+                  "squad"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1325,12 +2101,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository uses pretrain BERT embeddings for transfer learning in QA domain",
+                "homepage": null,
                 "id": 161274766,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-12-18T06:24:36Z",
+                "open_issues": 0,
                 "owner": "krishna-sharma19",
                 "repo": "SBU-QA",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "bert-model",
+                  "fine-tuning",
+                  "question-answering",
+                  "question-generation",
+                  "tensorflow",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1341,12 +2129,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a chinese Bert model specific for question answering",
+                "homepage": null,
                 "id": 158323226,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-08T11:35:01Z",
+                "open_issues": 3,
                 "owner": "benywon",
                 "repo": "ChineseBert",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "chinese-nlp",
+                  "deep-learning",
+                  "natural-language-processing"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -1364,12 +2161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bert中文分类实践",
+                "homepage": null,
                 "id": 159150601,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-11T07:10:49Z",
+                "open_issues": 19,
                 "owner": "NLPScott",
                 "repo": "bert-Chinese-classification-task",
-                "stars": 736
+                "stars": 736,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1380,12 +2182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 159097177,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-07T05:44:06Z",
+                "open_issues": 12,
                 "owner": "Socialbird-AILab",
                 "repo": "BERT-Classification-Tutorial",
-                "stars": 535
+                "stars": 535,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1396,12 +2203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "利用bert预训练的中文模型进行文本分类  数据集中文情感分析语料chnsenticorp",
+                "homepage": null,
                 "id": 162686907,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-26T03:02:16Z",
+                "open_issues": 6,
                 "owner": "pengming617",
                 "repo": "bert_classification",
-                "stars": 373
+                "stars": 373,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1412,12 +2224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multilabel classification for Toxic comments challenge using Bert",
+                "homepage": null,
                 "id": 169702097,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-08-20T06:35:06Z",
+                "open_issues": 11,
                 "owner": "kaushaltrivedi",
                 "repo": "bert-toxic-comments-multilabel",
-                "stars": 311
+                "stars": 311,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1428,12 +2245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch Bert Finetune in Chinese Text Classification",
+                "homepage": null,
                 "id": 164197035,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-11T14:10:38Z",
+                "open_issues": 4,
                 "owner": "FakerYFX",
                 "repo": "Bert-Pytorch-Chinese-TextClassification",
-                "stars": 222
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1444,12 +2266,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural models for Text Classification in Tensorflow, such as cnn, dpcnn, fasttext, bert ...",
+                "homepage": null,
                 "id": 163942168,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-25T05:15:47Z",
+                "open_issues": 5,
                 "owner": "liyibo",
                 "repo": "text-classification-demos",
-                "stars": 192
+                "stars": 192,
+                "topics": [
+                  "bert",
+                  "cnn",
+                  "fasttext",
+                  "tensorflow",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1460,12 +2293,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains a PyTorch implementation of a pretrained BERT model  for text classification.",
+                "homepage": null,
                 "id": 168708153,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-30T14:37:54Z",
+                "open_issues": 5,
                 "owner": "lonePatient",
                 "repo": "BERT-chinese-text-classification-pytorch",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "bert",
+                  "chinese",
+                  "chinese-text-classification",
+                  "nlp",
+                  "pytorch",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1476,12 +2321,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kaggle新赛(baseline)-基于BERT的fine-tuning方案+基于tensor2tensor的Transformer Encoder方案",
+                "homepage": null,
                 "id": 156986327,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-11-11T06:22:51Z",
+                "open_issues": 1,
                 "owner": "zhpmatrix",
                 "repo": "Kaggle-Quora-Insincere-Questions-Classification",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "bert",
+                  "kaggle",
+                  "quora",
+                  "tensor2tensor",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1492,12 +2348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "use google pre-training model bert to fine-tuning for the chinese multiclass classification",
+                "homepage": null,
                 "id": 158519381,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-11-22T07:12:57Z",
+                "open_issues": 6,
                 "owner": "maksna",
                 "repo": "bert-fine-tuning-for-chinese-multiclass-classification",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1508,12 +2369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "微调BERT模型,同时构建自己的数据集实现分类",
+                "homepage": null,
                 "id": 159922036,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-01T07:54:37Z",
+                "open_issues": 1,
                 "owner": "xiaopingzhong",
                 "repo": "Bert_Fine_Tune_For_Classfier",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1524,12 +2390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pytorch implements of Chinese text class based on BERT_Pretrained_Model ",
+                "homepage": null,
                 "id": 164856742,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-11T02:31:42Z",
+                "open_issues": 2,
                 "owner": "circlePi",
                 "repo": "BERT_Chinese_Text_Class_By_pytorch",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -1547,12 +2418,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Aspect Based Sentiment Analysis, PyTorch Implementations.  基于方面的情感分析，使用PyTorch实现。",
+                "homepage": null,
                 "id": 132771879,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-12T21:30:16Z",
+                "open_issues": 96,
                 "owner": "songyouwei",
                 "repo": "ABSA-PyTorch",
-                "stars": 2114
+                "stars": 2114,
+                "topics": [
+                  "aspect-based-sentiment-analysis",
+                  "attention",
+                  "bert",
+                  "natural-language-processing",
+                  "nlp",
+                  "sentiment-analysis",
+                  "sentiment-classification"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1563,12 +2447,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-label Classification with BERT; Fine Grained Sentiment Analysis from AI challenger",
+                "homepage": null,
                 "id": 155994397,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-11-15T13:13:29Z",
+                "open_issues": 8,
                 "owner": "brightmart",
                 "repo": "sentiment_analysis_fine_grain",
-                "stars": 592
+                "stars": 592,
+                "topics": [
+                  "bert",
+                  "fine-grained-classification",
+                  "language-model",
+                  "multi-label-classification",
+                  "online",
+                  "pre-train",
+                  "sentiment-analysis",
+                  "text-classification",
+                  "textcnn"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1579,12 +2478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence (NAACL 2019)",
+                "homepage": "https://www.aclweb.org/anthology/N19-1035",
                 "id": 177083174,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-04T00:27:34Z",
+                "open_issues": 11,
                 "owner": "HSLCY",
                 "repo": "ABSA-BERT-pair",
-                "stars": 520
+                "stars": 520,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1595,12 +2499,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for our NAACL 2019 paper: \"BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis\"",
+                "homepage": null,
                 "id": 172388988,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-05T05:58:43Z",
+                "open_issues": 12,
                 "owner": "howardhsu",
                 "repo": "BERT-for-RRC-ABSA",
-                "stars": 462
+                "stars": 462,
+                "topics": [
+                  "bert",
+                  "reading-comprehension",
+                  "sentiment-analysis"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1611,12 +2524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sentiment Analysis on Douban Movie Short Comments Dataset using BERT.",
+                "homepage": null,
                 "id": 163071593,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-12-28T09:59:57Z",
+                "open_issues": 1,
                 "owner": "Chung-I",
                 "repo": "Douban-Sentiment-Analysis",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1627,12 +2545,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bert sentiment analysis tensorflow serving with RESTful API",
+                "homepage": null,
                 "id": 160899871,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-09T03:19:53Z",
+                "open_issues": 2,
                 "owner": "lynnna-xu",
                 "repo": "bert_sa",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "bert",
+                  "rest-client",
+                  "restful-api",
+                  "sentiment-analysis",
+                  "tensorflow-serving"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -1650,12 +2579,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning And private Server services",
+                "homepage": "https://github.com/macanv/BERT-BiLSMT-CRF-NER",
                 "id": 159004094,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-24T02:13:06Z",
+                "open_issues": 145,
                 "owner": "macanv",
                 "repo": "BERT-BiLSTM-CRF-NER",
-                "stars": 4906
+                "stars": 4906,
+                "topics": [
+                  "bert",
+                  "bert-bilstm-crf",
+                  "blstm",
+                  "crf",
+                  "named-entity-recognition",
+                  "ner"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1666,12 +2607,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.",
+                "homepage": null,
                 "id": 156503444,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-19T05:06:32Z",
+                "open_issues": 78,
                 "owner": "kaiyinzhou",
                 "repo": "BERT-NER",
-                "stars": 1277
+                "stars": 1277,
+                "topics": [
+                  "bert",
+                  "conll-2003",
+                  "google-bert",
+                  "ner",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1682,12 +2634,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使用预训练语言模型BERT做中文NER",
+                "homepage": null,
                 "id": 159430135,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-02-26T05:58:03Z",
+                "open_issues": 3,
                 "owner": "ProHiryu",
                 "repo": "bert-chinese-ner",
-                "stars": 972
+                "stars": 972,
+                "topics": [
+                  "bert",
+                  "chinese",
+                  "fine-tune",
+                  "ner",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1698,12 +2661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lstm-crf,Lattice-CRF,bert-ner及近年ner相关论文follow",
+                "homepage": null,
                 "id": 160286108,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-07T01:38:41Z",
+                "open_issues": 17,
                 "owner": "FuYanzhe2",
                 "repo": "Name-Entity-Recognition",
-                "stars": 567
+                "stars": 567,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1714,12 +2682,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch solution of named entity recognition task Using Google AI's pre-trained BERT model.",
+                "homepage": null,
                 "id": 164078459,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-30T13:57:17Z",
+                "open_issues": 19,
                 "owner": "lemonhu",
                 "repo": "NER-BERT-pytorch",
-                "stars": 446
+                "stars": 446,
+                "topics": [
+                  "chinese-ner",
+                  "entity-extraction",
+                  "google-bert",
+                  "information-extraction",
+                  "msra",
+                  "named-entity-recognition",
+                  "ner",
+                  "pytorch",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1730,12 +2713,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT-NER (nert-bert) with google bert https://github.com/google-research.",
+                "homepage": null,
                 "id": 158529372,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-02-03T13:30:37Z",
+                "open_issues": 3,
                 "owner": "ai-forever",
                 "repo": "ner-bert",
-                "stars": 407
+                "stars": 407,
+                "topics": [
+                  "atis",
+                  "attention",
+                  "bert",
+                  "bert-model",
+                  "bilstm-crf",
+                  "classification",
+                  "conll-2003",
+                  "elmo",
+                  "factrueval",
+                  "joint-models",
+                  "ner",
+                  "ner-task",
+                  "nlp",
+                  "nmt",
+                  "python",
+                  "python3",
+                  "pytorch",
+                  "pytorch-model",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1746,12 +2754,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT-NER (nert-bert) with google bert https://github.com/google-research.",
+                "homepage": null,
                 "id": 158529372,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-02-03T13:30:37Z",
+                "open_issues": 3,
                 "owner": "ai-forever",
                 "repo": "ner-bert",
-                "stars": 407
+                "stars": 407,
+                "topics": [
+                  "atis",
+                  "attention",
+                  "bert",
+                  "bert-model",
+                  "bilstm-crf",
+                  "classification",
+                  "conll-2003",
+                  "elmo",
+                  "factrueval",
+                  "joint-models",
+                  "ner",
+                  "ner-task",
+                  "nlp",
+                  "nmt",
+                  "python",
+                  "python3",
+                  "pytorch",
+                  "pytorch-model",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1762,12 +2795,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ner with Bert",
+                "homepage": null,
                 "id": 172331006,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-10-20T02:50:01Z",
+                "open_issues": 10,
                 "owner": "Kyubyong",
                 "repo": "bert_ner",
-                "stars": 280
+                "stars": 280,
+                "topics": [
+                  "bert",
+                  "bert-model",
+                  "named-entity-recognition",
+                  "ner"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1778,12 +2821,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " 基于Bi-GRU + CRF 的中文机构名、人名识别, 支持google bert模型",
+                "homepage": null,
                 "id": 146265855,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-06T03:18:35Z",
+                "open_issues": 10,
                 "owner": "yanwii",
                 "repo": "ChineseNER",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "bert-bilstm-crf",
+                  "bert-chinese",
+                  "bi-gru-crf",
+                  "named-entity-recognition",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1794,12 +2848,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于BERT的中文序列标注",
+                "homepage": null,
                 "id": 156714199,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-11-08T14:04:09Z",
+                "open_issues": 3,
                 "owner": "zhpmatrix",
                 "repo": "bert-sequence-tagging",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "bert",
+                  "chinese",
+                  "sequence-tagging"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1810,12 +2873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Chinese word segment model based on BERT, F1-Score 97%",
+                "homepage": null,
                 "id": 166180422,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-05-28T07:47:31Z",
+                "open_issues": 2,
                 "owner": "jiangpinglei",
                 "repo": "BERT_ChineseWordSegment",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1826,12 +2894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This model base on bert-as-service. Model structure : bert-embedding bilstm crf.",
+                "homepage": null,
                 "id": 162286128,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-18T13:55:54Z",
+                "open_issues": 1,
                 "owner": "kaiyinzhou",
                 "repo": "Bert-BiLSTM-CRF",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1842,12 +2915,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Berserker - BERt chineSE woRd toKenizER ",
+                "homepage": null,
                 "id": 164325882,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-02-25T14:02:20Z",
+                "open_issues": 3,
                 "owner": "Hoiy",
                 "repo": "berserker",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "bert",
+                  "bert-chinese",
+                  "chinese-nlp",
+                  "chinese-word-segmentation",
+                  "nlp",
+                  "sequence-to-sequence",
+                  "state-of-the-art",
+                  "tensorflow",
+                  "tokenizer",
+                  "tpu"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1858,12 +2947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "this project is based on google bert model, which is a Chinese NER",
+                "homepage": null,
                 "id": 160022105,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-02T08:24:20Z",
+                "open_issues": 3,
                 "owner": "mhcao916",
                 "repo": "NER_Based_on_BERT",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -1881,12 +2975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper Fine-tune BERT for Extractive Summarization",
+                "homepage": null,
                 "id": 177497186,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-11T07:58:23Z",
+                "open_issues": 49,
                 "owner": "nlpyang",
                 "repo": "BertSum",
-                "stars": 1506
+                "stars": 1506,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1897,12 +2996,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abstractive summarisation using Bert as encoder and Transformer Decoder",
+                "homepage": null,
                 "id": 168450999,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-30T05:41:22Z",
+                "open_issues": 30,
                 "owner": "santhoshkolloju",
                 "repo": "Abstractive-Summarization-With-Transfer-Learning",
-                "stars": 411
+                "stars": 411,
+                "topics": [
+                  "abstractive-summarization",
+                  "abstractive-text-summarization",
+                  "bert",
+                  "bert-model",
+                  "nlg",
+                  "nlp",
+                  "summarization",
+                  "transfer-learning",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1913,12 +3027,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lecture summarization with BERT",
+                "homepage": "https://arxiv.org/abs/1906.04165",
                 "id": 173009997,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-01T07:52:54Z",
+                "open_issues": 9,
                 "owner": "dmmiller612",
                 "repo": "lecture-summarizer",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "bert",
+                  "bert-model",
+                  "extractive-summarization",
+                  "flask",
+                  "pytorch",
+                  "summarization"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1929,12 +3055,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 181026744,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-08T04:58:34Z",
+                "open_issues": 17,
                 "owner": "nayeon7lee",
                 "repo": "bert-summarization",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -1952,12 +3083,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/",
+                "homepage": "https://asyml.io",
                 "id": 98052177,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-21T02:23:58Z",
+                "open_issues": 40,
                 "owner": "asyml",
                 "repo": "texar",
-                "stars": 2389
+                "stars": 2389,
+                "topics": [
+                  "bert",
+                  "casl-project",
+                  "data-processing",
+                  "deep-learning",
+                  "dialog-systems",
+                  "gpt-2",
+                  "machine-learning",
+                  "machine-translation",
+                  "natural-language-processing",
+                  "python",
+                  "tensorflow",
+                  "texar",
+                  "text-data",
+                  "text-generation",
+                  "xlnet"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1968,12 +3120,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT score for text generation",
+                "homepage": null,
                 "id": 182419862,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-07-30T09:41:28Z",
+                "open_issues": 47,
                 "owner": "Tiiiger",
                 "repo": "bert_score",
-                "stars": 1918
+                "stars": 1918,
+                "topics": [
+                  "machine-learning",
+                  "natural-language-processing"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -1984,12 +3144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fine tuning bert for text generation",
+                "homepage": null,
                 "id": 179675979,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-11-09T10:55:55Z",
+                "open_issues": 0,
                 "owner": "voidful",
                 "repo": "BertGenerate",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -2007,12 +3172,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于知识图谱的问答系统，BERT做命名实体识别和句子相似度，分为online和outline模式",
+                "homepage": null,
                 "id": 182223042,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-16T12:05:22Z",
+                "open_issues": 21,
                 "owner": "WenRichard",
                 "repo": "KBQA-BERT",
-                "stars": 1470
+                "stars": 1470,
+                "topics": [
+                  "bert",
+                  "knowledge-graph",
+                  "nlpcc2017",
+                  "sentence-similarity"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2023,12 +3198,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Entity and Relation Extraction Based on TensorFlow and BERT. 基于TensorFlow和BERT的管道式实体及关系抽取，2019语言与智能技术竞赛信息抽取任务解决方案。Schema based Knowledge Extraction, SKE 2019",
+                "homepage": "https://yuanxiaosc.github.io/2019/05/17/多关系抽取研究/",
                 "id": 179987764,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-01T03:24:31Z",
+                "open_issues": 11,
                 "owner": "yuanxiaosc",
                 "repo": "Entity-Relation-Extraction",
-                "stars": 1230
+                "stars": 1230,
+                "topics": [
+                  "bert-model",
+                  "competition-code",
+                  "entity-extraction",
+                  "pipeline-framework",
+                  "relation-extraction",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2039,12 +3226,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for http://lic2019.ccf.org.cn/kg 信息抽取。使用基于 BERT 的实体抽取和关系抽取的端到端的联合模型。",
+                "homepage": null,
                 "id": 179268867,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-14T13:05:58Z",
+                "open_issues": 2,
                 "owner": "yuanxiaosc",
                 "repo": "Schema-based-Knowledge-Extraction",
-                "stars": 288
+                "stars": 288,
+                "topics": [
+                  "competition-code",
+                  "entity-extraction",
+                  "joint-models",
+                  "relation-extraction",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2055,12 +3253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A trial  of kbqa based on bert for NLPCC2016/2017 Task 5  (基于BERT的中文知识库问答实践，代码可跑通）",
+                "homepage": null,
                 "id": 174569433,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-16T02:41:45Z",
+                "open_issues": 5,
                 "owner": "jkszw2014",
                 "repo": "bert-kbqa-NLPCC2017",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2071,12 +3274,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USING BERT FOR Attribute Extraction in KnowledgeGraph. fine-tuning and feature extraction.                                                使用基于bert的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取。",
+                "homepage": null,
                 "id": 161633979,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-01T13:12:48Z",
+                "open_issues": 1,
                 "owner": "sakuranew",
                 "repo": "BERT-AttributeExtraction",
-                "stars": 266
+                "stars": 266,
+                "topics": [
+                  "ai",
+                  "attribute-extraction",
+                  "bert",
+                  "deeplearning",
+                  "feature-extraction",
+                  "fine-tuning",
+                  "knowledge-graph",
+                  "nlp",
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2087,12 +3305,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "论文实现(ACL2019)：《Matching the Blanks: Distributional Similarity for Relation Learning》",
+                "homepage": null,
                 "id": 195616106,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-08T00:21:05Z",
+                "open_issues": 9,
                 "owner": "zhpmatrix",
                 "repo": "BERTem",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "acl2019",
+                  "bert-pytorch",
+                  "fewrel",
+                  "matching-the-blanks",
+                  "nlp",
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2103,12 +3333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于中文的知识抽取，BaseLine：Bi-LSTM+CRF",
+                "homepage": null,
                 "id": 158905936,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-28T06:47:34Z",
+                "open_issues": 1,
                 "owner": "lvjianxin",
                 "repo": "Knowledge-extraction",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2119,12 +3354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 169303345,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-02-05T22:47:38Z",
+                "open_issues": 0,
                 "owner": "aditya-AI",
                 "repo": "Information-Retrieval-System-using-BERT",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -2142,12 +3382,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Convolutional Networks (GCN) with BERT for Coreference Resolution Task [Pytorch][DGL]",
+                "homepage": null,
                 "id": 183833766,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-05-18T01:01:57Z",
+                "open_issues": 3,
                 "owner": "ianycxu",
                 "repo": "GCN-with-BERT",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "bert",
+                  "bert-model",
+                  "coreference-resolution",
+                  "gcn",
+                  "gnn",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "nlp",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2158,12 +3413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT finetuning for GAP unbiased pronoun resolution",
+                "homepage": null,
                 "id": 178930028,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-22T07:13:30Z",
+                "open_issues": 0,
                 "owner": "bouchardi",
                 "repo": "BERT_for_GAP-coreference",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -2181,12 +3441,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BertViz: Visualize Attention in Transformer Models",
+                "homepage": null,
                 "id": 162021652,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-08T22:38:46Z",
+                "open_issues": 22,
                 "owner": "jessevig",
                 "repo": "bertviz",
-                "stars": 8161
+                "stars": 8161,
+                "topics": [
+                  "bert",
+                  "gpt2",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "neural-network",
+                  "nlp",
+                  "pytorch",
+                  "roberta",
+                  "transformer",
+                  "transformers",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -2204,12 +3481,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "building a chinese dialogue system based on the newest version of rasa(基于最新版本rasa搭建的对话系统)",
+                "homepage": null,
                 "id": 144941393,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-04T07:07:13Z",
+                "open_issues": 19,
                 "owner": "GaoQ1",
                 "repo": "rasa_chatbot_cn",
-                "stars": 982
+                "stars": 982,
+                "topics": [
+                  "bert",
+                  "chinese",
+                  "demo",
+                  "intent-classification",
+                  "policy",
+                  "python",
+                  "rasa",
+                  "rasa-chatbot",
+                  "rasa-core",
+                  "rasa-nlu",
+                  "rasa-nlu-gao",
+                  "rasa-x",
+                  "slot-filling",
+                  "tensorflow",
+                  "train-dialogue",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2220,12 +3519,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the template code to use BERT for sequence lableing and text classification, in order to facilitate BERT for more tasks. Currently, the template code has included conll-2003 named entity identification, Snips Slot Filling and Intent Prediction.",
+                "homepage": "https://yuanxiaosc.github.io/2018/12/26/%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%ABCoNLL2003/",
                 "id": 171868025,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-08T06:59:03Z",
+                "open_issues": 37,
                 "owner": "yuanxiaosc",
                 "repo": "BERT-for-Sequence-Labeling-and-Text-Classification",
-                "stars": 468
+                "stars": 468,
+                "topics": [
+                  "atis-dataset",
+                  "bert",
+                  "conll-2003",
+                  "sequence-labeling",
+                  "snips-dataset",
+                  "template-project",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2236,12 +3548,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "turn natural language into structured data(支持中文，自定义了N种模型，支持不同的场景和任务)",
+                "homepage": null,
                 "id": 152353500,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T03:15:51Z",
+                "open_issues": 10,
                 "owner": "GaoQ1",
                 "repo": "rasa_nlu_gq",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "bert",
+                  "bilstm-idcnn",
+                  "jieba",
+                  "natural-language",
+                  "nlp",
+                  "nlu",
+                  "rasa",
+                  "rasa-nlu",
+                  "rasa-nlu-gao",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2252,12 +3580,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "支持rasa-nlu 的bert finetune",
+                "homepage": null,
                 "id": 165186610,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-09T08:19:54Z",
+                "open_issues": 1,
                 "owner": "GaoQ1",
                 "repo": "rasa-bert-finetune",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "bert",
+                  "finetune",
+                  "rasa",
+                  "rasa-nlu"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2268,12 +3606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A question-answering chatbot, simply. ",
+                "homepage": null,
                 "id": 175302453,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-26T23:50:33Z",
+                "open_issues": 1,
                 "owner": "guillaume-chevalier",
                 "repo": "ReuBERT",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2284,12 +3627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "用于智能助手回答问题的训练，基于BERT模型进行训练改造",
+                "homepage": null,
                 "id": 163354438,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-28T02:10:55Z",
+                "open_issues": 0,
                 "owner": "geodge831012",
                 "repo": "bert_robot",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -2307,12 +3655,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ongoing research training transformer models at scale",
+                "homepage": "https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html",
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:29:48Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:11:17Z",
+                "open_issues": 1259,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17655
+                "stars": 17658,
+                "topics": [
+                  "large-language-models",
+                  "model-para",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2323,12 +3680,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP",
+                "homepage": "https://clip-as-service.jina.ai",
                 "id": 157198623,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-23T10:33:43Z",
+                "open_issues": 303,
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12835
+                "stars": 12835,
+                "topics": [
+                  "bert",
+                  "bert-as-service",
+                  "clip-as-service",
+                  "clip-model",
+                  "cross-modal-retrieval",
+                  "cross-modality",
+                  "deep-learning",
+                  "image2vec",
+                  "multi-modality",
+                  "neural-search",
+                  "onnx",
+                  "openai",
+                  "pytorch",
+                  "sentence-encoding",
+                  "sentence2vec"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2339,12 +3717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一行代码使用BERT生成句向量，BERT做文本分类、文本相似度计算",
+                "homepage": null,
                 "id": 168135554,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-14T06:52:57Z",
+                "open_issues": 56,
                 "owner": "terrifyzhao",
                 "repo": "bert-utils",
-                "stars": 1668
+                "stars": 1668,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2355,12 +3738,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " LAnguage Model Analysis",
+                "homepage": null,
                 "id": 178342783,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-07T07:13:09Z",
+                "open_issues": 40,
                 "owner": "facebookresearch",
                 "repo": "LAMA",
-                "stars": 1390
+                "stars": 1390,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2371,12 +3759,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🔡 Token level embeddings from BERT model on mxnet and gluonnlp",
+                "homepage": "http://bert-embedding.readthedocs.io/",
                 "id": 169742086,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-13T04:30:57Z",
+                "open_issues": 31,
                 "owner": "imgarylai",
                 "repo": "bert-embedding",
-                "stars": 451
+                "stars": 451,
+                "topics": [
+                  "bert",
+                  "gluonnlp",
+                  "mxnet",
+                  "natural-language-processing",
+                  "nlp",
+                  "word-embeddings"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2387,12 +3787,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a sklearn wrapper for Google's BERT model",
+                "homepage": null,
                 "id": 171210574,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-26T10:35:20Z",
+                "open_issues": 12,
                 "owner": "charles9n",
                 "repo": "bert-sklearn",
-                "stars": 302
+                "stars": 302,
+                "topics": [
+                  "bert",
+                  "conll-2003",
+                  "language-model",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "ner",
+                  "nlp",
+                  "pytorch",
+                  "scikit-learn",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2403,12 +3819,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BERT as language model, fork from https://github.com/google-research/bert",
+                "homepage": null,
                 "id": 159764910,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-06T06:20:47Z",
+                "open_issues": 1,
                 "owner": "xu-song",
                 "repo": "bert-as-language-model",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "bert",
+                  "language-model",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2419,12 +3844,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中文预训练模型生成字向量学习，测试BERT，ELMO的中文效果",
+                "homepage": null,
                 "id": 160762191,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-01-22T13:44:37Z",
+                "open_issues": 8,
                 "owner": "YC-wind",
                 "repo": "embedding_study",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "bert",
+                  "chinese",
+                  "elmo",
+                  "elmo-tutorial",
+                  "embeddings",
+                  "z-w"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2435,12 +3872,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 165945756,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-22T07:27:09Z",
+                "open_issues": 0,
                 "owner": "Kyubyong",
                 "repo": "bert-token-embeddings",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2451,12 +3893,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使用BERT模型进行文本分类，相似句子判断，以及词性标注",
+                "homepage": null,
                 "id": 165501977,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-23T01:57:24Z",
+                "open_issues": 3,
                 "owner": "fennuDetudou",
                 "repo": "BERT_implement",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2467,12 +3914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "add BERT to encoder part for https://github.com/memray/seq2seq-keyphrase-pytorch",
+                "homepage": null,
                 "id": 159603246,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-04T02:21:10Z",
+                "open_issues": 1,
                 "owner": "whqwill",
                 "repo": "seq2seq-keyphrase-bert",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2483,12 +3935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate BERT token level embedding without pain",
+                "homepage": null,
                 "id": 169492532,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-02-07T02:03:46Z",
+                "open_issues": 1,
                 "owner": "hankcs",
                 "repo": "BERT-token-level-embedding",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2499,12 +3956,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow code and pre-trained models for A Dynamic Word Representation Model Based on Deep Context. It combines the idea of  BERT model and ELMo's deep context word representation.",
+                "homepage": "https://yuanxiaosc.github.io/2018/11/27/Bidirectional_Encoder_Representations_Transformers/",
                 "id": 157370657,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-27T13:08:35Z",
+                "open_issues": 0,
                 "owner": "yuanxiaosc",
                 "repo": "Deep_dynamic_contextualized_word_representation",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "bert",
+                  "elmo",
+                  "nlp",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -2522,12 +3989,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State-of-the-Art Embeddings, Retrieval, and Reranking",
+                "homepage": "https://www.sbert.net",
                 "id": 198616978,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T20:14:09Z",
+                "open_issues": 1319,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19045
+                "stars": 19047,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2538,12 +4010,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computing similarity of two sentences with google's BERT algorithm。利用Bert计算句子相似度。语义相似度计算。文本相似度计算。",
+                "homepage": null,
                 "id": 171440202,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-24T23:27:13Z",
+                "open_issues": 10,
                 "owner": "Brokenwind",
                 "repo": "BertSimilarity",
-                "stars": 510
+                "stars": 510,
+                "topics": [
+                  "bert",
+                  "nlp",
+                  "python",
+                  "semantic",
+                  "similarity",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2554,12 +4038,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "利用预训练的中文模型实现基于bert的语义匹配模型  数据集为LCQMC官方数据",
+                "homepage": null,
                 "id": 175361988,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-12-19T06:23:17Z",
+                "open_issues": 8,
                 "owner": "pengming617",
                 "repo": "bert_textMatching",
-                "stars": 195
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2570,12 +4059,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "bert chinese similarity ",
+                "homepage": null,
                 "id": 168077904,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-07T05:18:54Z",
+                "open_issues": 2,
                 "owner": "xiongma",
                 "repo": "chinese-law-bert-similarity",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "bert",
+                  "deep-learning",
+                  "nlp",
+                  "sentence-similarity",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2586,12 +4086,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implementation of the paper \"Evaluating Coherence in Dialogue Systems using Entailment\"",
+                "homepage": "https://arxiv.org/abs/1904.03371",
                 "id": 181122698,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-21T18:52:13Z",
+                "open_issues": 0,
                 "owner": "nouhadziri",
                 "repo": "DialogEntailment",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "bert",
+                  "dialogue-evaluation",
+                  "evaluation-framework",
+                  "natural-language-inference"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2602,12 +4112,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains a PyTorch implementation of a pretrained BERT model  for sentence similarity task.",
+                "homepage": null,
                 "id": 170696150,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-02-14T13:34:15Z",
+                "open_issues": 2,
                 "owner": "lonePatient",
                 "repo": "bert-sentence-similarity-pytorch",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "bert",
+                  "nlp",
+                  "pytorch",
+                  "sentence-similarity",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -2625,12 +4146,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Natural Language Processing Tutorial for Deep Learning Researchers",
+                "homepage": "https://www.reddit.com/r/MachineLearning/comments/amfinl/project_nlptutoral_repository_who_is_studying/",
                 "id": 164852596,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-02-21T13:49:10Z",
+                "open_issues": 40,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14923
+                "stars": 14924,
+                "topics": [
+                  "attention",
+                  "bert",
+                  "natural-language-processing",
+                  "nlp",
+                  "paper",
+                  "pytorch",
+                  "tensorflow",
+                  "transformer",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2641,12 +4177,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow 2.x version's  Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。",
+                "homepage": null,
                 "id": 168269440,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-09-23T15:50:30Z",
+                "open_issues": 21,
                 "owner": "dragen1860",
                 "repo": "TensorFlow-2.x-Tutorials",
-                "stars": 6340
+                "stars": 6340,
+                "topics": [
+                  "artificial-intelligence",
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-network",
+                  "nlp",
+                  "tensorflow",
+                  "tensorflow-2",
+                  "tensorflow-examples",
+                  "tensorflow-tutorials"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             }
@@ -2660,15 +4212,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:37:06.391Z",
+    "last_updated": "2026-08-29T04:30:48.140Z",
     "original_repository_info": {
       "archived": false,
+      "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
+      "homepage": null,
       "id": 158636620,
       "language": null,
+      "license": null,
       "last_commit": "2021-03-21T03:06:33Z",
+      "open_issues": 5,
       "owner": "Jiakui",
       "repo": "awesome-bert",
-      "stars": 1839
+      "stars": 1839,
+      "topics": [
+        "bert",
+        "google-bert",
+        "nlp",
+        "xlnet"
+      ]
     },
     "original_repository_sha": "a1e91d5902c098117ccd7ace8aa5d93db814a651",
     "enhanced_repository": "enhansome/enhansome-bert",
