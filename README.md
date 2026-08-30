@@ -34,7 +34,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## implement of BERT besides tensorflow:
 
-1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,599 | 🐛 2,397 | 🌐 Python | 📅 2026-08-29,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
+1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,629 | 🐛 2,401 | 🌐 Python | 📅 2026-08-30,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
    ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
 2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,527 | 🐛 68 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
@@ -68,7 +68,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 10. [dhlee347/pytorchic-bert](https://github.com/dhlee347/pytorchic-bert) ⭐ 600 | 🐛 10 | 🌐 Python | 📅 2020-03-29, Pytorch Implementation of Google BERT,
     ![](https://img.shields.io/github/stars/dhlee347/pytorchic-bert.svg)
 
-11. [kpot/keras-transformer](https://github.com/kpot/keras-transformer) ⭐ 541 | 🐛 19 | 🌐 Python | 📅 2020-05-30, Keras library for building (Universal) Transformers, facilitating BERT and GPT models,
+11. [kpot/keras-transformer](https://github.com/kpot/keras-transformer) ⭐ 540 | 🐛 19 | 🌐 Python | 📅 2020-05-30, Keras library for building (Universal) Transformers, facilitating BERT and GPT models,
     ![](https://img.shields.io/github/stars/kpot/keras-transformer.svg)
 
 12. [soskek/bert-chainer](https://github.com/soskek/bert-chainer) ⭐ 225 | 🐛 0 | 🌐 Python | 📅 2019-11-09,  Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
@@ -178,7 +178,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 6. [JayYip/bert-multitask-learning](https://github.com/JayYip/bert-multitask-learning) ⭐ 544 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2023-04-12, BERT for Multitask Learning,
    ![](https://img.shields.io/github/stars/JayYip/bert-multitask-learning.svg)
 
-7. [kpot/keras-transformer](https://github.com/kpot/keras-transformer) ⭐ 541 | 🐛 19 | 🌐 Python | 📅 2020-05-30, Keras library for building (Universal) Transformers, facilitating BERT and GPT models,
+7. [kpot/keras-transformer](https://github.com/kpot/keras-transformer) ⭐ 540 | 🐛 19 | 🌐 Python | 📅 2020-05-30, Keras library for building (Universal) Transformers, facilitating BERT and GPT models,
    ![](https://img.shields.io/github/stars/kpot/keras-transformer.svg)
 
 8. [yoheikikuta/bert-japanese](https://github.com/yoheikikuta/bert-japanese) ⭐ 497 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-02-15, BERT with SentencePiece for Japanese text.
@@ -291,7 +291,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 7. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) ⭐ 115 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-18, BertQA - Attention on Steroids,
    ![](https://img.shields.io/github/stars/ankit-ai/BertQA-Attention-on-Steroids.svg)
 
-8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 164,599 | 🐛 2,397 | 🌐 Python | 📅 2026-08-29). I adapted the original BERT model to work on multiple choice machine comprehension.
+8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 164,629 | 🐛 2,401 | 🌐 Python | 📅 2026-08-30). I adapted the original BERT model to work on multiple choice machine comprehension.
    ![](https://img.shields.io/github/stars/NoviScl/BERT-RACE.svg)
 
 9. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2019-04-10,
@@ -503,7 +503,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT language model and embedding:
 
-1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,664 | 🐛 1,265 | 🌐 Python | 📅 2026-08-29, Ongoing research training transformer language models at scale, including: BERT,
+1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 17,674 | 🐛 1,266 | 🌐 Python | 📅 2026-08-30, Ongoing research training transformer language models at scale, including: BERT,
    ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg)
 
 2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,835 | 🐛 303 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
@@ -544,7 +544,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT Text Match:
 
-1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,048 | 🐛 1,319 | 🌐 Python | 📅 2026-08-27, Sentence Embeddings with BERT & XLNet,
+1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,046 | 🐛 1,319 | 🌐 Python | 📅 2026-08-27, Sentence Embeddings with BERT & XLNet,
    Sentence Transformers: Sentence Embeddings using BERT / RoBERTa / XLNet with PyTorch,
    ![](https://img.shields.io/github/stars/UKPLab/sentence-transformers.svg)
 
@@ -573,4 +573,4 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
