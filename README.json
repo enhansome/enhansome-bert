@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T13:37:13Z",
+                "last_commit": "2026-09-08T12:01:40Z",
                 "open_issues": 2404,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164949,
+                "stars": 164982,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -123,7 +123,7 @@
                 "open_issues": 136,
                 "owner": "dbiir",
                 "repo": "UER-py",
-                "stars": 3112,
+                "stars": 3113,
                 "topics": [
                   "albert",
                   "bart",
@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "ymcui",
                 "repo": "Chinese-BERT-wwm",
-                "stars": 10226,
+                "stars": 10228,
                 "topics": [
                   "bert",
                   "bert-wwm",
@@ -723,7 +723,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32231,
+                "stars": 32230,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1081,7 +1081,7 @@
                 "open_issues": 0,
                 "owner": "yuanxiaosc",
                 "repo": "BERT_Paper_Chinese_Translation",
-                "stars": 684,
+                "stars": 685,
                 "topics": [
                   "bert",
                   "chinese-translation",
@@ -1279,7 +1279,7 @@
                 "open_issues": 1,
                 "owner": "whqwill",
                 "repo": "seq2seq-keyphrase-bert",
-                "stars": 80,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -1577,7 +1577,7 @@
                 "open_issues": 10,
                 "owner": "EmilyAlsentzer",
                 "repo": "clinicalBERT",
-                "stars": 774,
+                "stars": 775,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -1651,7 +1651,7 @@
                 "open_issues": 321,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14847,
+                "stars": 14844,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -2487,7 +2487,7 @@
                 "open_issues": 11,
                 "owner": "HSLCY",
                 "repo": "ABSA-BERT-pair",
-                "stars": 519,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -2508,7 +2508,7 @@
                 "open_issues": 12,
                 "owner": "howardhsu",
                 "repo": "BERT-for-RRC-ABSA",
-                "stars": 462,
+                "stars": 461,
                 "topics": [
                   "bert",
                   "reading-comprehension",
@@ -2588,7 +2588,7 @@
                 "open_issues": 145,
                 "owner": "macanv",
                 "repo": "BERT-BiLSTM-CRF-NER",
-                "stars": 4906,
+                "stars": 4907,
                 "topics": [
                   "bert",
                   "bert-bilstm-crf",
@@ -2691,7 +2691,7 @@
                 "open_issues": 19,
                 "owner": "lemonhu",
                 "repo": "NER-BERT-pytorch",
-                "stars": 446,
+                "stars": 445,
                 "topics": [
                   "chinese-ner",
                   "entity-extraction",
@@ -3005,7 +3005,7 @@
                 "open_issues": 30,
                 "owner": "santhoshkolloju",
                 "repo": "Abstractive-Summarization-With-Transfer-Learning",
-                "stars": 411,
+                "stars": 410,
                 "topics": [
                   "abstractive-summarization",
                   "abstractive-text-summarization",
@@ -3486,7 +3486,7 @@
                 "id": 144941393,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-04T07:07:13Z",
+                "last_commit": "2026-09-08T07:47:25Z",
                 "open_issues": 19,
                 "owner": "GaoQ1",
                 "repo": "rasa_chatbot_cn",
@@ -3528,7 +3528,7 @@
                 "open_issues": 37,
                 "owner": "yuanxiaosc",
                 "repo": "BERT-for-Sequence-Labeling-and-Text-Classification",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "atis-dataset",
                   "bert",
@@ -3553,7 +3553,7 @@
                 "id": 152353500,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-09T03:15:51Z",
+                "last_commit": "2026-09-08T07:47:44Z",
                 "open_issues": 10,
                 "owner": "GaoQ1",
                 "repo": "rasa_nlu_gq",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T13:05:54Z",
-                "open_issues": 1258,
+                "last_commit": "2026-09-08T11:51:13Z",
+                "open_issues": 1274,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17773,
+                "stars": 17784,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3923,7 +3923,7 @@
                 "open_issues": 1,
                 "owner": "whqwill",
                 "repo": "seq2seq-keyphrase-bert",
-                "stars": 80,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T08:04:01Z",
-                "open_issues": 1291,
+                "last_commit": "2026-09-08T10:45:08Z",
+                "open_issues": 1294,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19075,
+                "stars": 19077,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4155,7 +4155,7 @@
                 "open_issues": 40,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14929,
+                "stars": 14928,
                 "topics": [
                   "attention",
                   "bert",
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:42:10.256Z",
+    "last_updated": "2026-09-08T12:18:02.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
