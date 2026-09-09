@@ -21,7 +21,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40043,
+                "stars": 40042,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T12:01:40Z",
-                "open_issues": 2404,
+                "last_commit": "2026-09-09T12:24:54Z",
+                "open_issues": 2402,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164982,
+                "stars": 165030,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -235,7 +235,7 @@
                 "open_issues": 162,
                 "owner": "appvision-ai",
                 "repo": "fast-bert",
-                "stars": 1915,
+                "stars": 1914,
                 "topics": [
                   "bert",
                   "fast-bert",
@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "ymcui",
                 "repo": "Chinese-BERT-wwm",
-                "stars": 10228,
+                "stars": 10227,
                 "topics": [
                   "bert",
                   "bert-wwm",
@@ -1651,7 +1651,7 @@
                 "open_issues": 321,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14844,
+                "stars": 14845,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -2588,7 +2588,7 @@
                 "open_issues": 145,
                 "owner": "macanv",
                 "repo": "BERT-BiLSTM-CRF-NER",
-                "stars": 4907,
+                "stars": 4908,
                 "topics": [
                   "bert",
                   "bert-bilstm-crf",
@@ -3450,7 +3450,7 @@
                 "open_issues": 22,
                 "owner": "jessevig",
                 "repo": "bertviz",
-                "stars": 8171,
+                "stars": 8174,
                 "topics": [
                   "bert",
                   "gpt2",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T11:51:13Z",
-                "open_issues": 1274,
+                "last_commit": "2026-09-09T12:15:15Z",
+                "open_issues": 1292,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17784,
+                "stars": 17800,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3995,10 +3995,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T10:45:08Z",
-                "open_issues": 1294,
+                "open_issues": 1297,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19077,
+                "stars": 19080,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:18:02.662Z",
+    "last_updated": "2026-09-09T12:29:53.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
