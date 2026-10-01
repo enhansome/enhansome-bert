@@ -21,7 +21,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40045,
+                "stars": 40047,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T14:15:38Z",
-                "open_issues": 2384,
+                "last_commit": "2026-10-01T14:01:37Z",
+                "open_issues": 2357,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 166850,
+                "stars": 166886,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -200,7 +200,7 @@
                 "open_issues": 28,
                 "owner": "BrikerMan",
                 "repo": "Kashgari",
-                "stars": 2382,
+                "stars": 2381,
                 "topics": [
                   "bert",
                   "bert-model",
@@ -748,7 +748,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7737,
+                "stars": 7738,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -776,7 +776,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7737,
+                "stars": 7738,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -1651,7 +1651,7 @@
                 "open_issues": 321,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14856,
+                "stars": 14857,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -3092,7 +3092,7 @@
                 "open_issues": 40,
                 "owner": "asyml",
                 "repo": "texar",
-                "stars": 2389,
+                "stars": 2390,
                 "topics": [
                   "bert",
                   "casl-project",
@@ -3450,7 +3450,7 @@
                 "open_issues": 22,
                 "owner": "jessevig",
                 "repo": "bertviz",
-                "stars": 8188,
+                "stars": 8189,
                 "topics": [
                   "bert",
                   "gpt2",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T14:14:31Z",
-                "open_issues": 1457,
+                "last_commit": "2026-10-01T14:36:49Z",
+                "open_issues": 1480,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18040,
+                "stars": 18048,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T10:38:10Z",
-                "open_issues": 1349,
+                "last_commit": "2026-10-01T09:58:24Z",
+                "open_issues": 1356,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19137,
+                "stars": 19142,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T14:15:52.595Z",
+    "last_updated": "2026-10-01T14:49:33.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
