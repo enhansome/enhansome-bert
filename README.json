@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T14:01:37Z",
-                "open_issues": 2357,
+                "last_commit": "2026-10-02T13:44:15Z",
+                "open_issues": 2362,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 166886,
+                "stars": 166907,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -165,7 +165,7 @@
                 "open_issues": 271,
                 "owner": "dmlc",
                 "repo": "gluon-nlp",
-                "stars": 2538,
+                "stars": 2537,
                 "topics": [
                   "deep-learning",
                   "gluon",
@@ -723,7 +723,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32219,
+                "stars": 32216,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -748,7 +748,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7738,
+                "stars": 7737,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -776,7 +776,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7738,
+                "stars": 7737,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -1651,7 +1651,7 @@
                 "open_issues": 321,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14857,
+                "stars": 14856,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -3450,7 +3450,7 @@
                 "open_issues": 22,
                 "owner": "jessevig",
                 "repo": "bertviz",
-                "stars": 8189,
+                "stars": 8190,
                 "topics": [
                   "bert",
                   "gpt2",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T14:36:49Z",
-                "open_issues": 1480,
+                "last_commit": "2026-10-02T13:22:48Z",
+                "open_issues": 1503,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18048,
+                "stars": 18053,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3689,7 +3689,7 @@
                 "open_issues": 305,
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12832,
+                "stars": 12833,
                 "topics": [
                   "bert",
                   "bert-as-service",
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T09:58:24Z",
-                "open_issues": 1356,
+                "last_commit": "2026-10-01T20:19:25Z",
+                "open_issues": 1360,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19142,
+                "stars": 19144,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4155,7 +4155,7 @@
                 "open_issues": 40,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14931,
+                "stars": 14932,
                 "topics": [
                   "attention",
                   "bert",
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:49:33.481Z",
+    "last_updated": "2026-10-02T14:11:00.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
