@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:44:15Z",
-                "open_issues": 2362,
+                "last_commit": "2026-10-03T03:54:50Z",
+                "open_issues": 2360,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 166907,
+                "stars": 166909,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -96,7 +96,7 @@
                 "open_issues": 68,
                 "owner": "codertimo",
                 "repo": "BERT-pytorch",
-                "stars": 6529,
+                "stars": 6530,
                 "topics": [
                   "bert",
                   "language-model",
@@ -337,7 +337,7 @@
                 "open_issues": 10,
                 "owner": "dhlee347",
                 "repo": "pytorchic-bert",
-                "stars": 600,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "ymcui",
                 "repo": "Chinese-BERT-wwm",
-                "stars": 10232,
+                "stars": 10231,
                 "topics": [
                   "bert",
                   "bert-wwm",
@@ -723,7 +723,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32216,
+                "stars": 32214,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -748,7 +748,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7737,
+                "stars": 7736,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -776,7 +776,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7737,
+                "stars": 7736,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -1220,7 +1220,7 @@
                 "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "AzureML-BERT",
-                "stars": 405,
+                "stars": 404,
                 "topics": [
                   "azure-machine-learning",
                   "azureml-bert",
@@ -1651,7 +1651,7 @@
                 "open_issues": 321,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14856,
+                "stars": 14858,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1981,7 +1981,7 @@
             {
               "node_type": "item",
               "title": "xzp27/BERT-for-Chinese-Question-Answering",
-              "description": ",",
+              "description": "eva-n27/BERT-for-Chinese-Question-Answering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2006,7 +2006,7 @@
             {
               "node_type": "item",
               "title": "eva-n27/BERT-for-Chinese-Question-Answering",
-              "description": ",",
+              "description": "eva-n27/BERT-for-Chinese-Question-Answering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2178,7 +2178,7 @@
             {
               "node_type": "item",
               "title": "Socialbird-AILab/BERT-Classification-Tutorial",
-              "description": ",",
+              "description": "Socialbird-AILab/BERT-Classification-Tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2533,7 +2533,7 @@
                 "open_issues": 1,
                 "owner": "Chung-I",
                 "repo": "Douban-Sentiment-Analysis",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -3350,7 +3350,7 @@
             {
               "node_type": "item",
               "title": "aditya-AI/Information-Retrieval-System-using-BERT",
-              "description": ",",
+              "description": "aditya-AI/Information-Retrieval-System-using-BERT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3450,7 +3450,7 @@
                 "open_issues": 22,
                 "owner": "jessevig",
                 "repo": "bertviz",
-                "stars": 8190,
+                "stars": 8191,
                 "topics": [
                   "bert",
                   "gpt2",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T13:22:48Z",
-                "open_issues": 1503,
+                "last_commit": "2026-10-03T04:09:28Z",
+                "open_issues": 1504,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18053,
+                "stars": 18059,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3689,7 +3689,7 @@
                 "open_issues": 305,
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12833,
+                "stars": 12832,
                 "topics": [
                   "bert",
                   "bert-as-service",
@@ -3995,7 +3995,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T20:19:25Z",
-                "open_issues": 1360,
+                "open_issues": 1365,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
                 "stars": 19144,
@@ -4155,7 +4155,7 @@
                 "open_issues": 40,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14932,
+                "stars": 14931,
                 "topics": [
                   "attention",
                   "bert",
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:11:00.857Z",
+    "last_updated": "2026-10-03T04:36:00.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
