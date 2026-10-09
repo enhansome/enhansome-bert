@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T14:53:27Z",
-                "open_issues": 2363,
+                "last_commit": "2026-10-09T14:39:21Z",
+                "open_issues": 2336,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 167059,
+                "stars": 166897,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -200,7 +200,7 @@
                 "open_issues": 28,
                 "owner": "BrikerMan",
                 "repo": "Kashgari",
-                "stars": 2381,
+                "stars": 2380,
                 "topics": [
                   "bert",
                   "bert-model",
@@ -723,7 +723,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32209,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -748,7 +748,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7736,
+                "stars": 7735,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -776,7 +776,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7736,
+                "stars": 7735,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -1651,7 +1651,7 @@
                 "open_issues": 322,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14859,
+                "stars": 14862,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1839,7 +1839,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2022-01-26T13:32:15Z",
-                "open_issues": 11,
+                "open_issues": 5,
                 "owner": "nyu-dl",
                 "repo": "dl4marco-bert",
                 "stars": 484,
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T14:53:53Z",
-                "open_issues": 1581,
+                "last_commit": "2026-10-09T14:39:57Z",
+                "open_issues": 1586,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18087,
+                "stars": 18096,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T14:42:56Z",
-                "open_issues": 1335,
+                "last_commit": "2026-10-08T17:02:18Z",
+                "open_issues": 1338,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19158,
+                "stars": 19161,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:57:52.513Z",
+    "last_updated": "2026-10-09T14:42:41.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
