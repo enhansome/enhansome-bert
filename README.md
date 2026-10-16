@@ -34,7 +34,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## implement of BERT besides tensorflow:
 
-1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 167,716 | 🐛 2,328 | 🌐 Python | 📅 2026-10-15,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
+1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 167,762 | 🐛 2,319 | 🌐 Python | 📅 2026-10-16,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
    ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
 2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,532 | 🐛 68 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
@@ -123,16 +123,16 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 1. [pytorch/fairseq](https://github.com/pytorch/fairseq) ⚠️ Archived,  Facebook AI Research Sequence-to-Sequence Toolkit written in Python. RoBERTa: A Robustly Optimized BERT Pretraining Approach,
    ![](https://img.shields.io/github/stars/pytorch/fairseq.svg)
 
-2. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK) ⭐ 7,736 | 🐛 81 | 🌐 Python | 📅 2026-07-24,  LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE,
+2. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK) ⭐ 7,737 | 🐛 81 | 🌐 Python | 📅 2026-07-24,  LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE,
    ![](https://img.shields.io/github/stars/PaddlePaddle/LARK.svg)
 
-3. [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,736 | 🐛 81 | 🌐 Python | 📅 2026-07-24,  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)  BERT 的中文改进版 ERNIE,
+3. [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,737 | 🐛 81 | 🌐 Python | 📅 2026-07-24,  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)  BERT 的中文改进版 ERNIE,
    ![](https://img.shields.io/github/stars/PaddlePaddle/ERNIE.svg)
 
-4. [zihangdai/xlnet](https://github.com/zihangdai/xlnet) ⭐ 6,190 | 🐛 191 | 🌐 Python | 📅 2023-05-28, XLNet: Generalized Autoregressive Pretraining for Language Understanding,
+4. [zihangdai/xlnet](https://github.com/zihangdai/xlnet) ⭐ 6,189 | 🐛 191 | 🌐 Python | 📅 2023-05-28, XLNet: Generalized Autoregressive Pretraining for Language Understanding,
    ![](https://img.shields.io/github/stars/zihangdai/xlnet.svg)
 
-5. [brightmart/albert\_zh](https://github.com/brightmart/albert_zh) ⭐ 3,985 | 🐛 101 | 🌐 Python | 📅 2022-11-21, 海量中文预训练ALBERT模型, A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS <https://arxiv.org/pdf/1909.11942.pdf>,
+5. [brightmart/albert\_zh](https://github.com/brightmart/albert_zh) ⭐ 3,986 | 🐛 101 | 🌐 Python | 📅 2022-11-21, 海量中文预训练ALBERT模型, A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS <https://arxiv.org/pdf/1909.11942.pdf>,
    ![](https://img.shields.io/github/stars/brightmart/albert_zh.svg)
 
 6. [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl) ⭐ 3,717 | 🐛 98 | 🌐 Python | 📅 2022-09-21, Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, This repository contains the code in both PyTorch and TensorFlow for our paper.
@@ -291,7 +291,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 7. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) ⭐ 115 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-18, BertQA - Attention on Steroids,
    ![](https://img.shields.io/github/stars/ankit-ai/BertQA-Attention-on-Steroids.svg)
 
-8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 167,716 | 🐛 2,328 | 🌐 Python | 📅 2026-10-15). I adapted the original BERT model to work on multiple choice machine comprehension.
+8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 167,762 | 🐛 2,319 | 🌐 Python | 📅 2026-10-16). I adapted the original BERT model to work on multiple choice machine comprehension.
    ![](https://img.shields.io/github/stars/NoviScl/BERT-RACE.svg)
 
 9. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2019-04-10,
@@ -483,7 +483,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT chatbot :
 
-1. [GaoQ1/rasa\_chatbot\_cn](https://github.com/GaoQ1/rasa_chatbot_cn) ⭐ 983 | 🐛 19 | 🌐 Python | 📅 2026-09-08, 基于rasa-nlu和rasa-core 搭建的对话系统demo,
+1. [GaoQ1/rasa\_chatbot\_cn](https://github.com/GaoQ1/rasa_chatbot_cn) ⭐ 984 | 🐛 19 | 🌐 Python | 📅 2026-09-08, 基于rasa-nlu和rasa-core 搭建的对话系统demo,
    ![](https://img.shields.io/github/stars/GaoQ1/rasa_chatbot_cn.svg)
 
 2. [yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification) ⭐ 471 | 🐛 37 | 🌐 Python | 📅 2022-12-08, This is the template code to use BERT for sequence lableing and text classification, in order to facilitate BERT for more tasks. Currently, the template code has included conll-2003 named entity identification, Snips Slot Filling and Intent Prediction.
@@ -503,10 +503,10 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT language model and embedding:
 
-1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,158 | 🐛 1,666 | 🌐 Python | 📅 2026-10-15, Ongoing research training transformer language models at scale, including: BERT,
+1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,169 | 🐛 1,670 | 🌐 Python | 📅 2026-10-16, Ongoing research training transformer language models at scale, including: BERT,
    ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg)
 
-2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,832 | 🐛 304 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
+2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,831 | 🐛 304 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
    ![](https://img.shields.io/github/stars/hanxiao/bert-as-service.svg)
 
 3. [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) ⭐ 1,669 | 🐛 56 | 🌐 Python | 📅 2019-10-14, BERT生成句向量，BERT做文本分类、文本相似度计算,
@@ -544,7 +544,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT Text Match:
 
-1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,174 | 🐛 1,314 | 🌐 Python | 📅 2026-10-15, Sentence Embeddings with BERT & XLNet,
+1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,182 | 🐛 1,310 | 🌐 Python | 📅 2026-10-16, Sentence Embeddings with BERT & XLNet,
    Sentence Transformers: Sentence Embeddings using BERT / RoBERTa / XLNet with PyTorch,
    ![](https://img.shields.io/github/stars/UKPLab/sentence-transformers.svg)
 
@@ -573,4 +573,4 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
