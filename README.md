@@ -34,10 +34,10 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## implement of BERT besides tensorflow:
 
-1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 167,811 | 🐛 2,327 | 🌐 Python | 📅 2026-10-18,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
+1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 167,852 | 🐛 2,313 | 🌐 Python | 📅 2026-10-19,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
    ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
-2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,530 | 🐛 68 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
+2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,532 | 🐛 68 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
    ![](https://img.shields.io/github/stars/codertimo/BERT-pytorch.svg)
 
 3. [dbiir/UER-py](https://github.com/dbiir/UER-py) ⭐ 3,114 | 🐛 136 | 🌐 Python | 📅 2024-05-09,  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.\
@@ -49,7 +49,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 5. [BrikerMan/Kashgari](https://github.com/BrikerMan/Kashgari) ⭐ 2,381 | 🐛 28 | 🌐 Python | 📅 2024-09-03, Simple, Keras-powered multilingual NLP framework, allows you to build your models in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT, GPT-2 and word2vec embedding.
    ![](https://img.shields.io/github/stars/BrikerMan/Kashgari.svg)
 
-6. [kaushaltrivedi/fast-bert](https://github.com/kaushaltrivedi/fast-bert) ⭐ 1,914 | 🐛 162 | 🌐 Python | 📅 2024-08-19, Super easy library for BERT based NLP models,
+6. [kaushaltrivedi/fast-bert](https://github.com/kaushaltrivedi/fast-bert) ⭐ 1,913 | 🐛 162 | 🌐 Python | 📅 2024-08-19, Super easy library for BERT based NLP models,
    ![](https://img.shields.io/github/stars/kaushaltrivedi/fast-bert.svg)
 
 <details>
@@ -103,10 +103,10 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## Pretrained BERT weights:
 
-1. [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) ⭐ 10,231 | 🐛 1 | 🌐 Python | 📅 2026-04-19, Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm预训练模型） <https://arxiv.org/abs/1906.08101>,
+1. [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) ⭐ 10,232 | 🐛 1 | 🌐 Python | 📅 2026-04-19, Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm预训练模型） <https://arxiv.org/abs/1906.08101>,
    ![](https://img.shields.io/github/stars/ymcui/Chinese-BERT-wwm.svg)
 
-2. [brightmart/roberta\_zh](https://github.com/brightmart/roberta_zh) ⭐ 2,796 | 🐛 48 | 🌐 Python | 📅 2024-07-22, RoBERTa for Chinese, 中文预训练RoBERTa模型,
+2. [brightmart/roberta\_zh](https://github.com/brightmart/roberta_zh) ⭐ 2,795 | 🐛 48 | 🌐 Python | 📅 2024-07-22, RoBERTa for Chinese, 中文预训练RoBERTa模型,
    ![](https://img.shields.io/github/stars/brightmart/roberta_zh.svg)
 
 3. [ymcui/Chinese-PreTrained-XLNet](https://github.com/ymcui/Chinese-PreTrained-XLNet) ⭐ 1,646 | 🐛 0 | 🌐 Python | 📅 2026-04-19, Pre-Trained Chinese XLNet（中文XLNet预训练模型）,
@@ -159,7 +159,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 1. [brightmart/bert\_language\_understanding](https://github.com/brightmart/bert_language_understanding) ⭐ 968 | 🐛 10 | 🌐 Python | 📅 2019-01-01, Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN,
    ![](https://img.shields.io/github/stars/brightmart/bert_language_understanding.svg)
 
-2. [Y1ran/NLP-BERT--ChineseVersion](https://github.com/Y1ran/NLP-BERT--ChineseVersion) ⭐ 839 | 🐛 4 | 🌐 Python | 📅 2018-10-27, 谷歌自然语言处理模型BERT：论文解析与python代码,
+2. [Y1ran/NLP-BERT--ChineseVersion](https://github.com/Y1ran/NLP-BERT--ChineseVersion) ⭐ 838 | 🐛 4 | 🌐 Python | 📅 2018-10-27, 谷歌自然语言处理模型BERT：论文解析与python代码,
    ![](https://img.shields.io/github/stars/Y1ran/NLP-BERT--ChineseVersion.svg)
 
 <details>
@@ -262,7 +262,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 3. [xmxoxo/BERT-train2deploy](https://github.com/xmxoxo/BERT-train2deploy) ⭐ 529 | 🐛 21 | 🌐 CSS | 📅 2020-09-23, Bert Model training and deploy, BERT模型从训练到部署,
    ![](https://img.shields.io/github/stars/xmxoxo/BERT-train2deploy.svg)
 
-4. [qiangsiwei/bert\_distill](https://github.com/qiangsiwei/bert_distill) ⭐ 315 | 🐛 7 | 🌐 Python | 📅 2020-07-30, BERT distillation（基于BERT的蒸馏实验 ）,
+4. [qiangsiwei/bert\_distill](https://github.com/qiangsiwei/bert_distill) ⭐ 316 | 🐛 7 | 🌐 Python | 📅 2020-07-30, BERT distillation（基于BERT的蒸馏实验 ）,
    ![](https://img.shields.io/github/stars/qiangsiwei/bert_distill.svg)
 
 5. [kevinmtian/distill-bert](https://github.com/kevinmtian/distill-bert) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2019-01-07, Knowledge Distillation from BERT,
@@ -276,7 +276,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 2. [sogou/SMRCToolkit](https://github.com/sogou/SMRCToolkit) ⚠️ Archived, This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.,
    ![](https://img.shields.io/github/stars/sogou/SMRCToolkit.svg)
 
-3. [nyu-dl/dl4marco-bert](https://github.com/nyu-dl/dl4marco-bert) ⭐ 483 | 🐛 11 | 🌐 Python | 📅 2022-01-26, Passage Re-ranking with BERT,
+3. [nyu-dl/dl4marco-bert](https://github.com/nyu-dl/dl4marco-bert) ⭐ 484 | 🐛 11 | 🌐 Python | 📅 2022-01-26, Passage Re-ranking with BERT,
    ![](https://img.shields.io/github/stars/nyu-dl/dl4marco-bert.svg)
 
 4. [matthew-z/R-net](https://github.com/matthew-z/R-net) ⭐ 195 | 🐛 3 | 🌐 Python | 📅 2019-11-12, R-net in PyTorch, with BERT and ELMo,
@@ -291,7 +291,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 7. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) ⭐ 115 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-18, BertQA - Attention on Steroids,
    ![](https://img.shields.io/github/stars/ankit-ai/BertQA-Attention-on-Steroids.svg)
 
-8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 167,811 | 🐛 2,327 | 🌐 Python | 📅 2026-10-18). I adapted the original BERT model to work on multiple choice machine comprehension.
+8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 167,852 | 🐛 2,313 | 🌐 Python | 📅 2026-10-19). I adapted the original BERT model to work on multiple choice machine comprehension.
    ![](https://img.shields.io/github/stars/NoviScl/BERT-RACE.svg)
 
 9. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2019-04-10,
@@ -323,7 +323,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 2. [Socialbird-AILab/BERT-Classification-Tutorial](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial) ⭐ 535 | 🐛 12 | 🌐 Python | 📅 2018-12-07,
    ![](https://img.shields.io/github/stars/Socialbird-AILab/BERT-Classification-Tutorial.svg)
 
-3. [pengming617/bert\_classification](https://github.com/pengming617/bert_classification) ⭐ 374 | 🐛 6 | 🌐 Python | 📅 2019-08-26, 利用bert预训练的中文模型进行文本分类,
+3. [pengming617/bert\_classification](https://github.com/pengming617/bert_classification) ⭐ 375 | 🐛 6 | 🌐 Python | 📅 2019-08-26, 利用bert预训练的中文模型进行文本分类,
    ![](https://img.shields.io/github/stars/pengming617/bert_classification.svg)
 
 4. [kaushaltrivedi/bert-toxic-comments-multilabel](https://github.com/kaushaltrivedi/bert-toxic-comments-multilabel) ⭐ 311 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2019-08-20, Multilabel classification for Toxic comments challenge using Bert,
@@ -378,10 +378,10 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 1. [macanv/BERT-BiLSMT-CRF-NER](https://github.com/macanv/BERT-BiLSMT-CRF-NER) ⭐ 4,907 | 🐛 146 | 🌐 Python | 📅 2021-02-24, Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning  ,
    ![](https://img.shields.io/github/stars/macanv/BERT-BiLSMT-CRF-NER.svg)
 
-2. [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER) ⭐ 1,274 | 🐛 78 | 🌐 Python | 📅 2022-05-19, Use google BERT to do CoNLL-2003 NER ! ,
+2. [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER) ⭐ 1,275 | 🐛 78 | 🌐 Python | 📅 2022-05-19, Use google BERT to do CoNLL-2003 NER ! ,
    ![](https://img.shields.io/github/stars/kyzhouhzau/BERT-NER.svg)
 
-3. [ProHiryu/bert-chinese-ner](https://github.com/ProHiryu/bert-chinese-ner) ⭐ 972 | 🐛 3 | 🌐 Python | 📅 2020-02-26, 使用预训练语言模型BERT做中文NER,
+3. [ProHiryu/bert-chinese-ner](https://github.com/ProHiryu/bert-chinese-ner) ⭐ 973 | 🐛 3 | 🌐 Python | 📅 2020-02-26, 使用预训练语言模型BERT做中文NER,
    ![](https://img.shields.io/github/stars/ProHiryu/bert-chinese-ner.svg)
 
 4. [FuYanzhe2/Name-Entity-Recognition](https://github.com/FuYanzhe2/Name-Entity-Recognition) ⭐ 567 | 🐛 17 | 🌐 Python | 📅 2018-12-07, Lstm-crf,Lattice-CRF,bert-ner及近年ner相关论文follow,
@@ -433,7 +433,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT Text Generation Task:
 
-1. [asyml/texar](https://github.com/asyml/texar) ⭐ 2,391 | 🐛 40 | 🌐 Python | 📅 2026-07-21, Toolkit for Text Generation and Beyond <https://texar.io>, Texar is a general-purpose text generation toolkit, has also implemented BERT here for classification, and text generation applications by combining with Texar's other modules.
+1. [asyml/texar](https://github.com/asyml/texar) ⭐ 2,392 | 🐛 40 | 🌐 Python | 📅 2026-07-21, Toolkit for Text Generation and Beyond <https://texar.io>, Texar is a general-purpose text generation toolkit, has also implemented BERT here for classification, and text generation applications by combining with Texar's other modules.
    ![](https://img.shields.io/github/stars/asyml/texar.svg)
 
 2. [Tiiiger/bert\_score](https://github.com/Tiiiger/bert_score) ⭐ 1,921 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2024-07-30, BERT score for language generation,
@@ -478,7 +478,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT  visualization toolkit:
 
-1. [jessevig/bertviz](https://github.com/jessevig/bertviz) ⭐ 8,200 | 🐛 22 | 🌐 Python | 📅 2026-01-08, Tool for visualizing BERT's attention,
+1. [jessevig/bertviz](https://github.com/jessevig/bertviz) ⭐ 8,201 | 🐛 22 | 🌐 Python | 📅 2026-01-08, Tool for visualizing BERT's attention,
    ![](https://img.shields.io/github/stars/jessevig/bertviz.svg)
 
 ## BERT chatbot :
@@ -503,10 +503,10 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT language model and embedding:
 
-1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,186 | 🐛 1,651 | 🌐 Python | 📅 2026-10-18, Ongoing research training transformer language models at scale, including: BERT,
+1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,195 | 🐛 1,654 | 🌐 Python | 📅 2026-10-19, Ongoing research training transformer language models at scale, including: BERT,
    ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg)
 
-2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,831 | 🐛 304 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
+2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,832 | 🐛 304 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
    ![](https://img.shields.io/github/stars/hanxiao/bert-as-service.svg)
 
 3. [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) ⭐ 1,669 | 🐛 56 | 🌐 Python | 📅 2019-10-14, BERT生成句向量，BERT做文本分类、文本相似度计算,
@@ -544,7 +544,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT Text Match:
 
-1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,189 | 🐛 1,328 | 🌐 Python | 📅 2026-10-16, Sentence Embeddings with BERT & XLNet,
+1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,192 | 🐛 1,305 | 🌐 Python | 📅 2026-10-19, Sentence Embeddings with BERT & XLNet,
    Sentence Transformers: Sentence Embeddings using BERT / RoBERTa / XLNet with PyTorch,
    ![](https://img.shields.io/github/stars/UKPLab/sentence-transformers.svg)
 
@@ -565,12 +565,12 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT tutorials:
 
-1. [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) ⭐ 14,936 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2024-02-21, Natural Language Processing Tutorial for Deep Learning Researchers <https://www.reddit.com/r/MachineLearn…>,
+1. [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) ⭐ 14,937 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2024-02-21, Natural Language Processing Tutorial for Deep Learning Researchers <https://www.reddit.com/r/MachineLearn…>,
    ![](https://img.shields.io/github/stars/graykode/nlp-tutorial.svg)
 
-2. [dragen1860/TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials) ⭐ 6,342 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2020-09-23, TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。,
+2. [dragen1860/TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials) ⭐ 6,341 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2020-09-23, TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。,
    ![](https://img.shields.io/github/stars/dragen1860/TensorFlow-2.x-Tutorials.svg)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
