@@ -34,10 +34,10 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## implement of BERT besides tensorflow:
 
-1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 168,388 | 🐛 1,033 | 🌐 Python | 📅 2026-10-31,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
+1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 168,412 | 🐛 1,045 | 🌐 Python | 📅 2026-11-01,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
    ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
-2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,531 | 🐛 67 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
+2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,530 | 🐛 67 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
    ![](https://img.shields.io/github/stars/codertimo/BERT-pytorch.svg)
 
 3. [dbiir/UER-py](https://github.com/dbiir/UER-py) ⭐ 3,117 | 🐛 136 | 🌐 Python | 📅 2024-05-09,  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.\
@@ -112,7 +112,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 3. [ymcui/Chinese-PreTrained-XLNet](https://github.com/ymcui/Chinese-PreTrained-XLNet) ⭐ 1,646 | 🐛 0 | 🌐 Python | 📅 2026-04-19, Pre-Trained Chinese XLNet（中文XLNet预训练模型）,
    ![](https://img.shields.io/github/stars/ymcui/Chinese-PreTrained-XLNet.svg)
 
-4. [thunlp/OpenCLaP](https://github.com/thunlp/OpenCLaP) ⭐ 982 | 🐛 4 | 📅 2020-03-18,Open Chinese Language Pre-trained Model Zoo, OpenCLaP：多领域开源中文预训练语言模型仓库,
+4. [thunlp/OpenCLaP](https://github.com/thunlp/OpenCLaP) ⭐ 981 | 🐛 4 | 📅 2020-03-18,Open Chinese Language Pre-trained Model Zoo, OpenCLaP：多领域开源中文预训练语言模型仓库,
    ![](https://img.shields.io/github/stars/thunlp/OpenCLaP.svg)
 
 5. [brightmart/xlnet\_zh](https://github.com/brightmart/xlnet_zh) ⭐ 228 | 🐛 8 | 🌐 Python | 📅 2019-09-13, 中文预训练XLNet模型: Pre-Trained Chinese XLNet\_Large,
@@ -123,10 +123,10 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 1. [pytorch/fairseq](https://github.com/pytorch/fairseq) ⚠️ Archived,  Facebook AI Research Sequence-to-Sequence Toolkit written in Python. RoBERTa: A Robustly Optimized BERT Pretraining Approach,
    ![](https://img.shields.io/github/stars/pytorch/fairseq.svg)
 
-2. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK) ⭐ 7,740 | 🐛 81 | 🌐 Python | 📅 2026-07-24,  LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE,
+2. [PaddlePaddle/LARK](https://github.com/PaddlePaddle/LARK) ⭐ 7,739 | 🐛 81 | 🌐 Python | 📅 2026-07-24,  LAnguage Representations Kit, PaddlePaddle implementation of BERT. It also contains an improved version of BERT, ERNIE, for chinese NLP tasks.  BERT 的中文改进版 ERNIE,
    ![](https://img.shields.io/github/stars/PaddlePaddle/LARK.svg)
 
-3. [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,740 | 🐛 81 | 🌐 Python | 📅 2026-07-24,  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)  BERT 的中文改进版 ERNIE,
+3. [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,739 | 🐛 81 | 🌐 Python | 📅 2026-07-24,  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)  BERT 的中文改进版 ERNIE,
    ![](https://img.shields.io/github/stars/PaddlePaddle/ERNIE.svg)
 
 4. [zihangdai/xlnet](https://github.com/zihangdai/xlnet) ⭐ 6,194 | 🐛 190 | 🌐 Python | 📅 2023-05-28, XLNet: Generalized Autoregressive Pretraining for Language Understanding,
@@ -239,7 +239,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## domain specific BERT:
 
-1. [allenai/scibert](https://github.com/allenai/scibert) ⭐ 1,719 | 🐛 60 | 🌐 Python | 📅 2022-02-22, A BERT model for scientific text. <https://arxiv.org/abs/1903.10676>,
+1. [allenai/scibert](https://github.com/allenai/scibert) ⭐ 1,720 | 🐛 60 | 🌐 Python | 📅 2022-02-22, A BERT model for scientific text. <https://arxiv.org/abs/1903.10676>,
    ![](https://img.shields.io/github/stars/allenai/scibert.svg)
 
 2. [EmilyAlsentzer/clinicalBERT](https://github.com/EmilyAlsentzer/clinicalBERT) ⭐ 776 | 🐛 10 | 🌐 Python | 📅 2020-08-25, repository for Publicly Available Clinical BERT Embeddings
@@ -291,7 +291,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 7. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) ⭐ 115 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-18, BertQA - Attention on Steroids,
    ![](https://img.shields.io/github/stars/ankit-ai/BertQA-Attention-on-Steroids.svg)
 
-8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 168,388 | 🐛 1,033 | 🌐 Python | 📅 2026-10-31). I adapted the original BERT model to work on multiple choice machine comprehension.
+8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 168,412 | 🐛 1,045 | 🌐 Python | 📅 2026-11-01). I adapted the original BERT model to work on multiple choice machine comprehension.
    ![](https://img.shields.io/github/stars/NoviScl/BERT-RACE.svg)
 
 9. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2019-04-10,
@@ -503,10 +503,10 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT language model and embedding:
 
-1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,305 | 🐛 1,931 | 🌐 Python | 📅 2026-10-31, Ongoing research training transformer language models at scale, including: BERT,
+1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,310 | 🐛 1,917 | 🌐 Python | 📅 2026-11-01, Ongoing research training transformer language models at scale, including: BERT,
    ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg)
 
-2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,832 | 🐛 304 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
+2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,831 | 🐛 304 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
    ![](https://img.shields.io/github/stars/hanxiao/bert-as-service.svg)
 
 3. [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) ⭐ 1,670 | 🐛 56 | 🌐 Python | 📅 2019-10-14, BERT生成句向量，BERT做文本分类、文本相似度计算,
@@ -544,7 +544,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT Text Match:
 
-1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,238 | 🐛 1,312 | 🌐 Python | 📅 2026-10-30, Sentence Embeddings with BERT & XLNet,
+1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,246 | 🐛 1,312 | 🌐 Python | 📅 2026-10-30, Sentence Embeddings with BERT & XLNet,
    Sentence Transformers: Sentence Embeddings using BERT / RoBERTa / XLNet with PyTorch,
    ![](https://img.shields.io/github/stars/UKPLab/sentence-transformers.svg)
 
@@ -573,4 +573,4 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

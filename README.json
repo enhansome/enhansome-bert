@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T13:34:03Z",
-                "open_issues": 1033,
+                "last_commit": "2026-11-01T11:39:49Z",
+                "open_issues": 1045,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 168388,
+                "stars": 168412,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -96,7 +96,7 @@
                 "open_issues": 67,
                 "owner": "codertimo",
                 "repo": "BERT-pytorch",
-                "stars": 6531,
+                "stars": 6530,
                 "topics": [
                   "bert",
                   "language-model",
@@ -668,7 +668,7 @@
                 "open_issues": 4,
                 "owner": "thunlp",
                 "repo": "OpenCLaP",
-                "stars": 982,
+                "stars": 981,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -748,7 +748,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7740,
+                "stars": 7739,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -776,7 +776,7 @@
                 "open_issues": 81,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7740,
+                "stars": 7739,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -1552,7 +1552,7 @@
                 "open_issues": 60,
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": [
                   "bert",
                   "nlp",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T11:49:04Z",
-                "open_issues": 1931,
+                "last_commit": "2026-11-01T13:27:53Z",
+                "open_issues": 1917,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18305,
+                "stars": 18310,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3689,7 +3689,7 @@
                 "open_issues": 304,
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12832,
+                "stars": 12831,
                 "topics": [
                   "bert",
                   "bert-as-service",
@@ -3998,7 +3998,7 @@
                 "open_issues": 1312,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19238,
+                "stars": 19246,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:55:14.200Z",
+    "last_updated": "2026-11-01T14:32:39.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
