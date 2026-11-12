@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T15:36:09Z",
-                "open_issues": 1073,
+                "last_commit": "2026-11-12T16:12:08Z",
+                "open_issues": 1075,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 168814,
+                "stars": 168908,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -581,7 +581,7 @@
                 "open_issues": 0,
                 "owner": "ymcui",
                 "repo": "Chinese-BERT-wwm",
-                "stars": 10231,
+                "stars": 10232,
                 "topics": [
                   "bert",
                   "bert-wwm",
@@ -613,7 +613,7 @@
                 "open_issues": 48,
                 "owner": "brightmart",
                 "repo": "roberta_zh",
-                "stars": 2798,
+                "stars": 2799,
                 "topics": [
                   "bert",
                   "chinese",
@@ -720,10 +720,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
-                "open_issues": 1352,
+                "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -902,7 +902,7 @@
                 "open_issues": 33,
                 "owner": "kpe",
                 "repo": "bert-for-tf2",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "bert",
                   "keras",
@@ -2588,7 +2588,7 @@
                 "open_issues": 146,
                 "owner": "macanv",
                 "repo": "BERT-BiLSTM-CRF-NER",
-                "stars": 4908,
+                "stars": 4907,
                 "topics": [
                   "bert",
                   "bert-bilstm-crf",
@@ -3129,7 +3129,7 @@
                 "open_issues": 48,
                 "owner": "Tiiiger",
                 "repo": "bert_score",
-                "stars": 1923,
+                "stars": 1924,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing"
@@ -3450,7 +3450,7 @@
                 "open_issues": 21,
                 "owner": "jessevig",
                 "repo": "bertviz",
-                "stars": 8214,
+                "stars": 8217,
                 "topics": [
                   "bert",
                   "gpt2",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T14:19:59Z",
-                "open_issues": 2036,
+                "last_commit": "2026-11-12T16:18:30Z",
+                "open_issues": 2051,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18377,
+                "stars": 18384,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T15:02:41Z",
-                "open_issues": 1316,
+                "last_commit": "2026-11-12T16:20:04Z",
+                "open_issues": 1317,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19280,
+                "stars": 19282,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4155,7 +4155,7 @@
                 "open_issues": 38,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14933,
+                "stars": 14931,
                 "topics": [
                   "attention",
                   "bert",
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:38:41.517Z",
+    "last_updated": "2026-11-12T16:20:43.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
@@ -4224,7 +4224,7 @@
       "open_issues": 5,
       "owner": "Jiakui",
       "repo": "awesome-bert",
-      "stars": 1841,
+      "stars": 1842,
       "topics": [
         "bert",
         "google-bert",
