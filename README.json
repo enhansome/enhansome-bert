@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T14:37:36Z",
-                "open_issues": 1147,
+                "last_commit": "2026-11-16T17:28:45Z",
+                "open_issues": 1111,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 168993,
+                "stars": 169033,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -165,7 +165,7 @@
                 "open_issues": 271,
                 "owner": "dmlc",
                 "repo": "gluon-nlp",
-                "stars": 2539,
+                "stars": 2540,
                 "topics": [
                   "deep-learning",
                   "gluon",
@@ -748,7 +748,7 @@
                 "open_issues": 80,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7739,
+                "stars": 7740,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -776,7 +776,7 @@
                 "open_issues": 80,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7739,
+                "stars": 7740,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -804,7 +804,7 @@
                 "open_issues": 190,
                 "owner": "zihangdai",
                 "repo": "xlnet",
-                "stars": 6194,
+                "stars": 6195,
                 "topics": [
                   "deep-learning",
                   "nlp",
@@ -1577,7 +1577,7 @@
                 "open_issues": 10,
                 "owner": "EmilyAlsentzer",
                 "repo": "clinicalBERT",
-                "stars": 778,
+                "stars": 779,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -1598,7 +1598,7 @@
                 "open_issues": 7,
                 "owner": "kexinhuang12345",
                 "repo": "clinicalBERT",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "clinicalbert",
                   "hospital-readmission",
@@ -1651,7 +1651,7 @@
                 "open_issues": 323,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14878,
+                "stars": 14879,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -3005,7 +3005,7 @@
                 "open_issues": 30,
                 "owner": "santhoshkolloju",
                 "repo": "Abstractive-Summarization-With-Transfer-Learning",
-                "stars": 411,
+                "stars": 412,
                 "topics": [
                   "abstractive-summarization",
                   "abstractive-text-summarization",
@@ -3129,7 +3129,7 @@
                 "open_issues": 48,
                 "owner": "Tiiiger",
                 "repo": "bert_score",
-                "stars": 1924,
+                "stars": 1923,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing"
@@ -3450,7 +3450,7 @@
                 "open_issues": 21,
                 "owner": "jessevig",
                 "repo": "bertviz",
-                "stars": 8217,
+                "stars": 8219,
                 "topics": [
                   "bert",
                   "gpt2",
@@ -3490,7 +3490,7 @@
                 "open_issues": 19,
                 "owner": "GaoQ1",
                 "repo": "rasa_chatbot_cn",
-                "stars": 985,
+                "stars": 986,
                 "topics": [
                   "bert",
                   "chinese",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T13:50:38Z",
-                "open_issues": 2072,
+                "last_commit": "2026-11-16T17:27:57Z",
+                "open_issues": 2090,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18404,
+                "stars": 18418,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T10:51:22Z",
-                "open_issues": 1324,
+                "last_commit": "2026-11-16T13:39:24Z",
+                "open_issues": 1319,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19285,
+                "stars": 19287,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:00:34.346Z",
+    "last_updated": "2026-11-16T17:29:58.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
