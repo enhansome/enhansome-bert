@@ -34,7 +34,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## implement of BERT besides tensorflow:
 
-1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 169,218 | 🐛 1,104 | 🌐 Python | 📅 2026-11-18,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
+1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 169,265 | 🐛 1,098 | 🌐 Python | 📅 2026-11-19,   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
    ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
 
 2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,531 | 🐛 67 | 🌐 Python | 📅 2023-09-15,   Google AI 2018 BERT pytorch implementation,
@@ -270,11 +270,11 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT QA & RC task:
 
-1. [basketballandlearn/Dureader-Bert](https://github.com/basketballandlearn/Dureader-Bert) ⭐ 742 | 🐛 39 | 🌐 Python | 📅 2022-11-19, BERT Dureader多文档阅读理解 排名第七, 2019 Dureader机器阅读理解 单模型代码。,
-   ![](https://img.shields.io/github/stars/basketballandlearn/Dureader-Bert.svg)
-
-2. [sogou/SMRCToolkit](https://github.com/sogou/SMRCToolkit) ⚠️ Archived, This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.,
+1. [sogou/SMRCToolkit](https://github.com/sogou/SMRCToolkit) ⚠️ Archived, This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.,
    ![](https://img.shields.io/github/stars/sogou/SMRCToolkit.svg)
+
+2. [basketballandlearn/Dureader-Bert](https://github.com/basketballandlearn/Dureader-Bert) ⭐ 741 | 🐛 39 | 🌐 Python | 📅 2022-11-19, BERT Dureader多文档阅读理解 排名第七, 2019 Dureader机器阅读理解 单模型代码。,
+   ![](https://img.shields.io/github/stars/basketballandlearn/Dureader-Bert.svg)
 
 3. [nyu-dl/dl4marco-bert](https://github.com/nyu-dl/dl4marco-bert) ⭐ 483 | 🐛 11 | 🌐 Python | 📅 2022-01-26, Passage Re-ranking with BERT,
    ![](https://img.shields.io/github/stars/nyu-dl/dl4marco-bert.svg)
@@ -291,7 +291,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 7. [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) ⭐ 115 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-18, BertQA - Attention on Steroids,
    ![](https://img.shields.io/github/stars/ankit-ai/BertQA-Attention-on-Steroids.svg)
 
-8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 169,218 | 🐛 1,104 | 🌐 Python | 📅 2026-11-18). I adapted the original BERT model to work on multiple choice machine comprehension.
+8. [NoviScl/BERT-RACE](https://github.com/NoviScl/BERT-RACE) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2022-10-22, This work is based on Pytorch implementation of BERT (<https://github.com/huggingface/pytorch-pretrained-BERT> ⭐ 169,265 | 🐛 1,098 | 🌐 Python | 📅 2026-11-19). I adapted the original BERT model to work on multiple choice machine comprehension.
    ![](https://img.shields.io/github/stars/NoviScl/BERT-RACE.svg)
 
 9. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2019-04-10,
@@ -503,7 +503,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT language model and embedding:
 
-1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,433 | 🐛 2,132 | 🌐 Python | 📅 2026-11-18, Ongoing research training transformer language models at scale, including: BERT,
+1. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,440 | 🐛 2,161 | 🌐 Python | 📅 2026-11-19, Ongoing research training transformer language models at scale, including: BERT,
    ![](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg)
 
 2. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,842 | 🐛 304 | 🌐 Python | 📅 2024-01-23,    Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model,
@@ -544,7 +544,7 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ## BERT Text Match:
 
-1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,289 | 🐛 1,322 | 🌐 Python | 📅 2026-11-18, Sentence Embeddings with BERT & XLNet,
+1. [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,291 | 🐛 1,320 | 🌐 Python | 📅 2026-11-19, Sentence Embeddings with BERT & XLNet,
    Sentence Transformers: Sentence Embeddings using BERT / RoBERTa / XLNet with PyTorch,
    ![](https://img.shields.io/github/stars/UKPLab/sentence-transformers.svg)
 
@@ -573,4 +573,4 @@ AD:  a repository for graph convolutional networks at <https://github.com/Jiakui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

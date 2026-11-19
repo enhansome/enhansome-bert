@@ -21,7 +21,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40023,
+                "stars": 40021,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T16:43:52Z",
-                "open_issues": 1104,
+                "last_commit": "2026-11-19T16:48:52Z",
+                "open_issues": 1098,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 169218,
+                "stars": 169265,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -723,7 +723,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1779,34 +1779,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "basketballandlearn/Dureader-Bert",
-              "description": ", BERT Dureader多文档阅读理解 排名第七, 2019 Dureader机器阅读理解 单模型代码。,",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "机器阅读理解 冠军/亚军代码及中文预训练MRC模型",
-                "homepage": null,
-                "id": 189688627,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-11-19T20:32:49Z",
-                "open_issues": 39,
-                "owner": "luhua-rain",
-                "repo": "MRC_Competition_Dureader",
-                "stars": 742,
-                "topics": [
-                  "bert",
-                  "dureader",
-                  "mrc",
-                  "pytorch",
-                  "qa",
-                  "squad"
-                ]
-              },
-              "first_seen": "2026-08-28T19:37:06.391Z"
-            },
-            {
-              "node_type": "item",
               "title": "sogou/SMRCToolkit",
               "description": ", This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.,",
               "children": [],
@@ -1823,6 +1795,34 @@
                 "repo": "SogouMRCToolkit",
                 "stars": 741,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T19:37:06.391Z"
+            },
+            {
+              "node_type": "item",
+              "title": "basketballandlearn/Dureader-Bert",
+              "description": ", BERT Dureader多文档阅读理解 排名第七, 2019 Dureader机器阅读理解 单模型代码。,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "机器阅读理解 冠军/亚军代码及中文预训练MRC模型",
+                "homepage": null,
+                "id": 189688627,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2022-11-19T20:32:49Z",
+                "open_issues": 39,
+                "owner": "luhua-rain",
+                "repo": "MRC_Competition_Dureader",
+                "stars": 741,
+                "topics": [
+                  "bert",
+                  "dureader",
+                  "mrc",
+                  "pytorch",
+                  "qa",
+                  "squad"
+                ]
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T16:43:23Z",
-                "open_issues": 2132,
+                "last_commit": "2026-11-19T16:50:02Z",
+                "open_issues": 2161,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18433,
+                "stars": 18440,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T13:17:38Z",
-                "open_issues": 1322,
+                "last_commit": "2026-11-19T16:35:04Z",
+                "open_issues": 1320,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19289,
+                "stars": 19291,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T16:43:53.135Z",
+    "last_updated": "2026-11-19T16:50:23.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
