@@ -21,7 +21,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40021,
+                "stars": 40019,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T16:48:52Z",
+                "last_commit": "2026-11-20T16:22:55Z",
                 "open_issues": 1098,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 169265,
+                "stars": 169321,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -96,7 +96,7 @@
                 "open_issues": 67,
                 "owner": "codertimo",
                 "repo": "BERT-pytorch",
-                "stars": 6531,
+                "stars": 6527,
                 "topics": [
                   "bert",
                   "language-model",
@@ -123,7 +123,7 @@
                 "open_issues": 136,
                 "owner": "dbiir",
                 "repo": "UER-py",
-                "stars": 3116,
+                "stars": 3115,
                 "topics": [
                   "albert",
                   "bart",
@@ -165,7 +165,7 @@
                 "open_issues": 271,
                 "owner": "dmlc",
                 "repo": "gluon-nlp",
-                "stars": 2540,
+                "stars": 2539,
                 "topics": [
                   "deep-learning",
                   "gluon",
@@ -200,7 +200,7 @@
                 "open_issues": 28,
                 "owner": "BrikerMan",
                 "repo": "Kashgari",
-                "stars": 2379,
+                "stars": 2377,
                 "topics": [
                   "bert",
                   "bert-model",
@@ -235,7 +235,7 @@
                 "open_issues": 162,
                 "owner": "appvision-ai",
                 "repo": "fast-bert",
-                "stars": 1915,
+                "stars": 1914,
                 "topics": [
                   "bert",
                   "fast-bert",
@@ -261,7 +261,7 @@
                 "open_issues": 2,
                 "owner": "CyberZHG",
                 "repo": "keras-bert",
-                "stars": 2419,
+                "stars": 2417,
                 "topics": [
                   "bert",
                   "keras",
@@ -581,7 +581,7 @@
                 "open_issues": 0,
                 "owner": "ymcui",
                 "repo": "Chinese-BERT-wwm",
-                "stars": 10234,
+                "stars": 10232,
                 "topics": [
                   "bert",
                   "bert-wwm",
@@ -613,7 +613,7 @@
                 "open_issues": 48,
                 "owner": "brightmart",
                 "repo": "roberta_zh",
-                "stars": 2799,
+                "stars": 2798,
                 "topics": [
                   "bert",
                   "chinese",
@@ -723,7 +723,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -748,7 +748,7 @@
                 "open_issues": 79,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7740,
+                "stars": 7738,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -776,7 +776,7 @@
                 "open_issues": 79,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7740,
+                "stars": 7738,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -829,7 +829,7 @@
                 "open_issues": 101,
                 "owner": "brightmart",
                 "repo": "albert_zh",
-                "stars": 3987,
+                "stars": 3985,
                 "topics": [
                   "albert",
                   "bert",
@@ -881,7 +881,7 @@
                 "open_issues": 38,
                 "owner": "facebookresearch",
                 "repo": "SpanBERT",
-                "stars": 908,
+                "stars": 907,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -902,7 +902,7 @@
                 "open_issues": 33,
                 "owner": "kpe",
                 "repo": "bert-for-tf2",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "bert",
                   "keras",
@@ -1021,7 +1021,7 @@
                 "open_issues": 4,
                 "owner": "Y1ran",
                 "repo": "NLP-BERT--ChineseVersion",
-                "stars": 839,
+                "stars": 836,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -1042,7 +1042,7 @@
                 "open_issues": 3,
                 "owner": "cedrickchee",
                 "repo": "awesome-transformer-nlp",
-                "stars": 1152,
+                "stars": 1151,
                 "topics": [
                   "attention-mechanism",
                   "awesome",
@@ -1220,7 +1220,7 @@
                 "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "AzureML-BERT",
-                "stars": 406,
+                "stars": 405,
                 "topics": [
                   "azure-machine-learning",
                   "azureml-bert",
@@ -1552,7 +1552,7 @@
                 "open_issues": 60,
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1719,
+                "stars": 1717,
                 "topics": [
                   "bert",
                   "nlp",
@@ -1577,7 +1577,7 @@
                 "open_issues": 10,
                 "owner": "EmilyAlsentzer",
                 "repo": "clinicalBERT",
-                "stars": 779,
+                "stars": 778,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -1598,7 +1598,7 @@
                 "open_issues": 7,
                 "owner": "kexinhuang12345",
                 "repo": "clinicalBERT",
-                "stars": 456,
+                "stars": 455,
                 "topics": [
                   "clinicalbert",
                   "hospital-readmission",
@@ -1651,7 +1651,7 @@
                 "open_issues": 323,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14882,
+                "stars": 14883,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -2427,7 +2427,7 @@
                 "open_issues": 96,
                 "owner": "songyouwei",
                 "repo": "ABSA-PyTorch",
-                "stars": 2113,
+                "stars": 2112,
                 "topics": [
                   "aspect-based-sentiment-analysis",
                   "attention",
@@ -2508,7 +2508,7 @@
                 "open_issues": 12,
                 "owner": "howardhsu",
                 "repo": "BERT-for-RRC-ABSA",
-                "stars": 462,
+                "stars": 461,
                 "topics": [
                   "bert",
                   "reading-comprehension",
@@ -2588,7 +2588,7 @@
                 "open_issues": 146,
                 "owner": "macanv",
                 "repo": "BERT-BiLSTM-CRF-NER",
-                "stars": 4906,
+                "stars": 4905,
                 "topics": [
                   "bert",
                   "bert-bilstm-crf",
@@ -2616,7 +2616,7 @@
                 "open_issues": 78,
                 "owner": "kaiyinzhou",
                 "repo": "BERT-NER",
-                "stars": 1276,
+                "stars": 1275,
                 "topics": [
                   "bert",
                   "conll-2003",
@@ -2722,7 +2722,7 @@
                 "open_issues": 3,
                 "owner": "ai-forever",
                 "repo": "ner-bert",
-                "stars": 408,
+                "stars": 407,
                 "topics": [
                   "atis",
                   "attention",
@@ -2763,7 +2763,7 @@
                 "open_issues": 3,
                 "owner": "ai-forever",
                 "repo": "ner-bert",
-                "stars": 408,
+                "stars": 407,
                 "topics": [
                   "atis",
                   "attention",
@@ -2984,7 +2984,7 @@
                 "open_issues": 49,
                 "owner": "nlpyang",
                 "repo": "BertSum",
-                "stars": 1507,
+                "stars": 1506,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -3092,7 +3092,7 @@
                 "open_issues": 41,
                 "owner": "asyml",
                 "repo": "texar",
-                "stars": 2392,
+                "stars": 2391,
                 "topics": [
                   "bert",
                   "casl-project",
@@ -3129,7 +3129,7 @@
                 "open_issues": 48,
                 "owner": "Tiiiger",
                 "repo": "bert_score",
-                "stars": 1924,
+                "stars": 1922,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing"
@@ -3181,7 +3181,7 @@
                 "open_issues": 21,
                 "owner": "WenRichard",
                 "repo": "KBQA-BERT",
-                "stars": 1470,
+                "stars": 1469,
                 "topics": [
                   "bert",
                   "knowledge-graph",
@@ -3207,7 +3207,7 @@
                 "open_issues": 11,
                 "owner": "yuanxiaosc",
                 "repo": "Entity-Relation-Extraction",
-                "stars": 1231,
+                "stars": 1230,
                 "topics": [
                   "bert-model",
                   "competition-code",
@@ -3490,7 +3490,7 @@
                 "open_issues": 19,
                 "owner": "GaoQ1",
                 "repo": "rasa_chatbot_cn",
-                "stars": 986,
+                "stars": 985,
                 "topics": [
                   "bert",
                   "chinese",
@@ -3528,7 +3528,7 @@
                 "open_issues": 37,
                 "owner": "yuanxiaosc",
                 "repo": "BERT-for-Sequence-Labeling-and-Text-Classification",
-                "stars": 472,
+                "stars": 471,
                 "topics": [
                   "atis-dataset",
                   "bert",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T16:50:02Z",
-                "open_issues": 2161,
+                "last_commit": "2026-11-20T15:05:10Z",
+                "open_issues": 2175,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18440,
+                "stars": 18445,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3689,7 +3689,7 @@
                 "open_issues": 304,
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12842,
+                "stars": 12841,
                 "topics": [
                   "bert",
                   "bert-as-service",
@@ -3726,7 +3726,7 @@
                 "open_issues": 56,
                 "owner": "terrifyzhao",
                 "repo": "bert-utils",
-                "stars": 1671,
+                "stars": 1670,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T16:35:04Z",
-                "open_issues": 1320,
+                "last_commit": "2026-11-20T14:57:53Z",
+                "open_issues": 1319,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19291,
+                "stars": 19294,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4019,7 +4019,7 @@
                 "open_issues": 10,
                 "owner": "Brokenwind",
                 "repo": "BertSimilarity",
-                "stars": 509,
+                "stars": 508,
                 "topics": [
                   "bert",
                   "nlp",
@@ -4155,7 +4155,7 @@
                 "open_issues": 38,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14930,
+                "stars": 14928,
                 "topics": [
                   "attention",
                   "bert",
@@ -4186,7 +4186,7 @@
                 "open_issues": 21,
                 "owner": "dragen1860",
                 "repo": "TensorFlow-2.x-Tutorials",
-                "stars": 6343,
+                "stars": 6341,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:50:23.304Z",
+    "last_updated": "2026-11-20T16:25:39.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
@@ -4224,7 +4224,7 @@
       "open_issues": 5,
       "owner": "Jiakui",
       "repo": "awesome-bert",
-      "stars": 1842,
+      "stars": 1841,
       "topics": [
         "bert",
         "google-bert",
