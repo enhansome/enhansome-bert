@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T16:22:55Z",
-                "open_issues": 1098,
+                "last_commit": "2026-11-21T15:21:15Z",
+                "open_issues": 1102,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 169321,
+                "stars": 169343,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -723,7 +723,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -748,7 +748,7 @@
                 "open_issues": 79,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7738,
+                "stars": 7739,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -776,7 +776,7 @@
                 "open_issues": 79,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7738,
+                "stars": 7739,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -1651,7 +1651,7 @@
                 "open_issues": 323,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14883,
+                "stars": 14884,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1910,7 +1910,7 @@
                 "open_issues": 4,
                 "owner": "graykode",
                 "repo": "toeicbert",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "ai",
                   "bert",
@@ -2830,7 +2830,7 @@
                 "open_issues": 10,
                 "owner": "yanwii",
                 "repo": "ChineseNER",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "bert-bilstm-crf",
                   "bert-chinese",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T15:05:10Z",
-                "open_issues": 2175,
+                "last_commit": "2026-11-21T15:10:59Z",
+                "open_issues": 2153,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18445,
+                "stars": 18450,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T14:57:53Z",
-                "open_issues": 1319,
+                "last_commit": "2026-11-20T17:08:58Z",
+                "open_issues": 1318,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19294,
+                "stars": 19297,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4155,7 +4155,7 @@
                 "open_issues": 38,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14928,
+                "stars": 14929,
                 "topics": [
                   "attention",
                   "bert",
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:25:39.787Z",
+    "last_updated": "2026-11-21T15:40:04.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
