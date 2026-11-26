@@ -21,7 +21,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40019,
+                "stars": 40018,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T18:12:12Z",
-                "open_issues": 1150,
+                "last_commit": "2026-11-26T17:54:22Z",
+                "open_issues": 1165,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 169307,
+                "stars": 169363,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -123,7 +123,7 @@
                 "open_issues": 137,
                 "owner": "dbiir",
                 "repo": "UER-py",
-                "stars": 3116,
+                "stars": 3117,
                 "topics": [
                   "albert",
                   "bart",
@@ -723,7 +723,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -744,11 +744,11 @@
                 "id": 173544440,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-24T21:37:38Z",
+                "last_commit": "2026-11-26T06:13:21Z",
                 "open_issues": 79,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7741,
+                "stars": 7742,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -772,11 +772,11 @@
                 "id": 173544440,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-24T21:37:38Z",
+                "last_commit": "2026-11-26T06:13:21Z",
                 "open_issues": 79,
                 "owner": "PaddlePaddle",
                 "repo": "ERNIE",
-                "stars": 7741,
+                "stars": 7742,
                 "topics": [
                   "ernie",
                   "ernie-45",
@@ -1042,7 +1042,7 @@
                 "open_issues": 3,
                 "owner": "cedrickchee",
                 "repo": "awesome-transformer-nlp",
-                "stars": 1151,
+                "stars": 1150,
                 "topics": [
                   "attention-mechanism",
                   "awesome",
@@ -1651,7 +1651,7 @@
                 "open_issues": 323,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14887,
+                "stars": 14889,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -3129,7 +3129,7 @@
                 "open_issues": 48,
                 "owner": "Tiiiger",
                 "repo": "bert_score",
-                "stars": 1923,
+                "stars": 1924,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing"
@@ -3450,7 +3450,7 @@
                 "open_issues": 21,
                 "owner": "jessevig",
                 "repo": "bertviz",
-                "stars": 8222,
+                "stars": 8223,
                 "topics": [
                   "bert",
                   "gpt2",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T18:06:36Z",
-                "open_issues": 2201,
+                "last_commit": "2026-11-26T17:43:15Z",
+                "open_issues": 2189,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18478,
+                "stars": 18533,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3994,11 +3994,11 @@
                 "id": 198616978,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T16:20:25Z",
-                "open_issues": 1314,
+                "last_commit": "2026-11-26T17:52:35Z",
+                "open_issues": 1324,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19307,
+                "stars": 19309,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4155,7 +4155,7 @@
                 "open_issues": 38,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14931,
+                "stars": 14932,
                 "topics": [
                   "attention",
                   "bert",
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:12:32.936Z",
+    "last_updated": "2026-11-26T17:54:40.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
@@ -4224,7 +4224,7 @@
       "open_issues": 5,
       "owner": "Jiakui",
       "repo": "awesome-bert",
-      "stars": 1841,
+      "stars": 1840,
       "topics": [
         "bert",
         "google-bert",
