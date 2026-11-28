@@ -51,11 +51,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-27T17:39:27Z",
-                "open_issues": 1180,
+                "last_commit": "2026-11-28T14:18:40Z",
+                "open_issues": 1206,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 169384,
+                "stars": 169313,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -200,7 +200,7 @@
                 "open_issues": 28,
                 "owner": "BrikerMan",
                 "repo": "Kashgari",
-                "stars": 2376,
+                "stars": 2375,
                 "topics": [
                   "bert",
                   "bert-model",
@@ -723,7 +723,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -804,7 +804,7 @@
                 "open_issues": 190,
                 "owner": "zihangdai",
                 "repo": "xlnet",
-                "stars": 6196,
+                "stars": 6195,
                 "topics": [
                   "deep-learning",
                   "nlp",
@@ -1552,7 +1552,7 @@
                 "open_issues": 60,
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1718,
+                "stars": 1717,
                 "topics": [
                   "bert",
                   "nlp",
@@ -1651,7 +1651,7 @@
                 "open_issues": 323,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14888,
+                "stars": 14889,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1779,27 +1779,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "sogou/SMRCToolkit",
-              "description": ", This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.,",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.",
-                "homepage": null,
-                "id": 178673705,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2020-12-17T02:45:58Z",
-                "open_issues": 15,
-                "owner": "sogou",
-                "repo": "SogouMRCToolkit",
-                "stars": 741,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:37:06.391Z"
-            },
-            {
-              "node_type": "item",
               "title": "basketballandlearn/Dureader-Bert",
               "description": ", BERT Dureader多文档阅读理解 排名第七, 2019 Dureader机器阅读理解 单模型代码。,",
               "children": [],
@@ -1823,6 +1802,27 @@
                   "qa",
                   "squad"
                 ]
+              },
+              "first_seen": "2026-08-28T19:37:06.391Z"
+            },
+            {
+              "node_type": "item",
+              "title": "sogou/SMRCToolkit",
+              "description": ", This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.,",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.",
+                "homepage": null,
+                "id": 178673705,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2020-12-17T02:45:58Z",
+                "open_issues": 15,
+                "owner": "sogou",
+                "repo": "SogouMRCToolkit",
+                "stars": 740,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
             },
@@ -2212,7 +2212,7 @@
                 "open_issues": 6,
                 "owner": "pengming617",
                 "repo": "bert_classification",
-                "stars": 376,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -2588,7 +2588,7 @@
                 "open_issues": 146,
                 "owner": "macanv",
                 "repo": "BERT-BiLSTM-CRF-NER",
-                "stars": 4905,
+                "stars": 4904,
                 "topics": [
                   "bert",
                   "bert-bilstm-crf",
@@ -3660,11 +3660,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-27T17:37:46Z",
-                "open_issues": 2204,
+                "last_commit": "2026-11-28T16:15:05Z",
+                "open_issues": 2207,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18564,
+                "stars": 18576,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -3689,7 +3689,7 @@
                 "open_issues": 304,
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12843,
+                "stars": 12840,
                 "topics": [
                   "bert",
                   "bert-as-service",
@@ -3995,10 +3995,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-27T13:57:22Z",
-                "open_issues": 1315,
+                "open_issues": 1332,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
-                "stars": 19313,
+                "stars": 19314,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:06.391Z"
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T17:40:15.170Z",
+    "last_updated": "2026-11-28T16:25:48.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "bert nlp papers, applications and  github resources, including the newst xlnet  ， BERT、XLNet 相关论文和 github 项目",
